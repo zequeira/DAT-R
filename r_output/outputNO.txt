@@ -1,0 +1,1152 @@
+Pearson correlation, Lab vs Lab: 1.000, p:0.000; RMSE=0.000
+Pearson correlation, Lab vs CS_CW_DE: 0.922, p:0.000; RMSE=0.318
+Pearson correlation, Lab vs CS_AMT_EN: 0.930, p:0.000; RMSE=0.466
+Pearson correlation, Lab vs CS_AMT_ES: 0.861, p:0.000; RMSE=0.522
+
+
+
+
+Pearson correlation, CS_CW_DE vs CS_CW_DE: 0.999, p:0.000; RMSE=0.035
+Pearson correlation, CS_CW_DE vs CS_AMT_EN: 0.971, p:0.000; RMSE=0.342
+Pearson correlation, CS_CW_DE vs CS_AMT_ES: 0.955, p:0.000; RMSE=0.337
+
+
+Lab vs CS_CW_DE
+Independent-samples T-Test; Cond 5; t(196.914)=5.794, p=0.000
+Independent-samples T-Test; Cond 8; t(197.000)=-3.297, p=0.001
+Independent-samples T-Test; Cond 9; t(222.000)=-2.022, p=0.044
+Independent-samples T-Test; Cond 11; t(196.000)=2.554, p=0.011
+Independent-samples T-Test; Cond 12; t(187.265)=4.350, p=0.000
+Independent-samples T-Test; Cond 13; t(197.000)=2.992, p=0.003
+Independent-samples T-Test; Cond 18; t(196.000)=-2.050, p=0.042
+Independent-samples T-Test; Cond 19; t(197.000)=-2.209, p=0.028
+Independent-samples T-Test; Cond 22; t(193.044)=3.885, p=0.000
+Independent-samples T-Test; Cond 23; t(196.000)=-2.009, p=0.046
+Independent-samples T-Test; Cond 25; t(197.000)=-2.088, p=0.038
+Independent-samples T-Test; Cond 26; t(197.000)=8.911, p=0.000
+Independent-samples T-Test; Cond 27; t(202.367)=6.464, p=0.000
+Independent-samples T-Test; Cond 29; t(197.980)=-4.022, p=0.000
+Independent-samples T-Test; Cond 30; t(223.000)=-1.990, p=0.048
+Independent-samples T-Test; Cond 31; t(197.000)=-3.676, p=0.000
+Independent-samples T-Test; Cond 32; t(185.322)=-2.740, p=0.007
+Independent-samples T-Test; Cond 34; t(197.000)=4.320, p=0.000
+Independent-samples T-Test; Cond 35; t(193.719)=2.005, p=0.046
+Independent-samples T-Test; Cond 36; t(198.000)=-3.438, p=0.001
+Independent-samples T-Test; Cond 42; t(197.000)=-3.795, p=0.000
+Independent-samples T-Test; Cond 43; t(222.000)=4.415, p=0.000
+Independent-samples T-Test; Cond 47; t(196.000)=3.214, p=0.002
+Independent-samples T-Test; Cond 48; t(215.699)=3.178, p=0.002
+Independent-samples T-Test; Cond 49; t(197.000)=2.840, p=0.005
+
+
+Lab vs CS_AMT_EN
+Independent-samples T-Test; Cond 2; t(178.000)=2.404, p=0.017
+Independent-samples T-Test; Cond 4; t(144.362)=3.074, p=0.003
+Independent-samples T-Test; Cond 5; t(178.000)=7.246, p=0.000
+Independent-samples T-Test; Cond 7; t(178.000)=2.450, p=0.015
+Independent-samples T-Test; Cond 10; t(178.000)=2.910, p=0.004
+Independent-samples T-Test; Cond 11; t(157.000)=2.506, p=0.013
+Independent-samples T-Test; Cond 12; t(105.389)=6.475, p=0.000
+Independent-samples T-Test; Cond 13; t(167.679)=3.454, p=0.001
+Independent-samples T-Test; Cond 14; t(171.877)=3.239, p=0.001
+Independent-samples T-Test; Cond 15; t(178.000)=3.351, p=0.001
+Independent-samples T-Test; Cond 17; t(178.000)=2.844, p=0.005
+Independent-samples T-Test; Cond 20; t(176.299)=3.335, p=0.001
+Independent-samples T-Test; Cond 21; t(165.131)=2.348, p=0.020
+Independent-samples T-Test; Cond 22; t(178.000)=6.043, p=0.000
+Independent-samples T-Test; Cond 23; t(178.000)=3.466, p=0.001
+Independent-samples T-Test; Cond 26; t(128.922)=8.137, p=0.000
+Independent-samples T-Test; Cond 27; t(111.721)=4.408, p=0.000
+Independent-samples T-Test; Cond 32; t(178.000)=2.112, p=0.036
+Independent-samples T-Test; Cond 33; t(178.000)=5.075, p=0.000
+Independent-samples T-Test; Cond 34; t(178.000)=7.166, p=0.000
+Independent-samples T-Test; Cond 35; t(178.000)=4.725, p=0.000
+Independent-samples T-Test; Cond 37; t(178.000)=5.166, p=0.000
+Independent-samples T-Test; Cond 39; t(178.000)=3.974, p=0.000
+Independent-samples T-Test; Cond 43; t(178.000)=3.604, p=0.000
+Independent-samples T-Test; Cond 44; t(178.000)=4.887, p=0.000
+Independent-samples T-Test; Cond 45; t(178.000)=4.771, p=0.000
+Independent-samples T-Test; Cond 46; t(178.000)=3.022, p=0.003
+Independent-samples T-Test; Cond 47; t(165.902)=2.777, p=0.006
+Independent-samples T-Test; Cond 48; t(178.000)=3.708, p=0.000
+Independent-samples T-Test; Cond 49; t(135.966)=7.132, p=0.000
+Independent-samples T-Test; Cond 50; t(129.212)=4.995, p=0.000
+
+
+Lab vs CS_AMT_ES
+Independent-samples T-Test; Cond 2; t(170.000)=5.127, p=0.000
+Independent-samples T-Test; Cond 3; t(168.903)=4.327, p=0.000
+Independent-samples T-Test; Cond 5; t(170.000)=8.400, p=0.000
+Independent-samples T-Test; Cond 6; t(170.000)=2.031, p=0.044
+Independent-samples T-Test; Cond 8; t(170.000)=-2.812, p=0.005
+Independent-samples T-Test; Cond 11; t(166.669)=6.006, p=0.000
+Independent-samples T-Test; Cond 12; t(90.085)=6.849, p=0.000
+Independent-samples T-Test; Cond 13; t(146.724)=3.342, p=0.001
+Independent-samples T-Test; Cond 15; t(170.000)=3.638, p=0.000
+Independent-samples T-Test; Cond 16; t(170.000)=2.829, p=0.005
+Independent-samples T-Test; Cond 17; t(137.164)=2.061, p=0.041
+Independent-samples T-Test; Cond 21; t(170.000)=7.372, p=0.000
+Independent-samples T-Test; Cond 22; t(170.000)=7.237, p=0.000
+Independent-samples T-Test; Cond 25; t(170.000)=-2.746, p=0.007
+Independent-samples T-Test; Cond 26; t(116.651)=8.817, p=0.000
+Independent-samples T-Test; Cond 27; t(117.495)=3.340, p=0.001
+Independent-samples T-Test; Cond 28; t(141.002)=3.003, p=0.003
+Independent-samples T-Test; Cond 31; t(170.000)=-2.506, p=0.013
+Independent-samples T-Test; Cond 33; t(170.000)=3.486, p=0.001
+Independent-samples T-Test; Cond 34; t(170.000)=9.407, p=0.000
+Independent-samples T-Test; Cond 35; t(170.000)=3.346, p=0.001
+Independent-samples T-Test; Cond 37; t(137.998)=2.410, p=0.017
+Independent-samples T-Test; Cond 43; t(170.000)=2.928, p=0.004
+Independent-samples T-Test; Cond 44; t(128.773)=2.151, p=0.033
+Independent-samples T-Test; Cond 45; t(170.000)=4.414, p=0.000
+Independent-samples T-Test; Cond 46; t(170.000)=3.946, p=0.000
+Independent-samples T-Test; Cond 47; t(152.308)=4.883, p=0.000
+Independent-samples T-Test; Cond 48; t(170.000)=3.350, p=0.001
+Independent-samples T-Test; Cond 49; t(121.957)=6.234, p=0.000
+Independent-samples T-Test; Cond 50; t(132.384)=2.629, p=0.010
+
+
+Lab vs CS_CW_DE
+Mann-Whitney U Test; Cond 5; U=6987.50, p=0.000
+Mann-Whitney U Test; Cond 8; U=3759.50, p=0.002
+Mann-Whitney U Test; Cond 11; U=5823.00, p=0.015
+Mann-Whitney U Test; Cond 12; U=7717.00, p=0.000
+Mann-Whitney U Test; Cond 13; U=5993.50, p=0.006
+Mann-Whitney U Test; Cond 18; U=4129.00, p=0.041
+Mann-Whitney U Test; Cond 19; U=4172.00, p=0.041
+Mann-Whitney U Test; Cond 22; U=6423.00, p=0.000
+Mann-Whitney U Test; Cond 25; U=4144.00, p=0.034
+Mann-Whitney U Test; Cond 26; U=7856.00, p=0.000
+Mann-Whitney U Test; Cond 27; U=8477.50, p=0.000
+Mann-Whitney U Test; Cond 29; U=3618.00, p=0.000
+Mann-Whitney U Test; Cond 30; U=5204.00, p=0.029
+Mann-Whitney U Test; Cond 31; U=3516.50, p=0.000
+Mann-Whitney U Test; Cond 32; U=3960.00, p=0.010
+Mann-Whitney U Test; Cond 34; U=6549.50, p=0.000
+Mann-Whitney U Test; Cond 36; U=3744.00, p=0.001
+Mann-Whitney U Test; Cond 42; U=3521.50, p=0.000
+Mann-Whitney U Test; Cond 43; U=8201.50, p=0.000
+Mann-Whitney U Test; Cond 47; U=6152.00, p=0.001
+Mann-Whitney U Test; Cond 48; U=7558.00, p=0.002
+Mann-Whitney U Test; Cond 49; U=5863.50, p=0.014
+
+
+Lab vs CS_AMT_EN
+Mann-Whitney U Test; Cond 2; U=4830.50, p=0.014
+Mann-Whitney U Test; Cond 4; U=4838.50, p=0.004
+Mann-Whitney U Test; Cond 5; U=6196.50, p=0.000
+Mann-Whitney U Test; Cond 7; U=4947.00, p=0.006
+Mann-Whitney U Test; Cond 10; U=4936.50, p=0.005
+Mann-Whitney U Test; Cond 11; U=3702.50, p=0.011
+Mann-Whitney U Test; Cond 12; U=5969.00, p=0.000
+Mann-Whitney U Test; Cond 13; U=5137.00, p=0.001
+Mann-Whitney U Test; Cond 14; U=5130.00, p=0.001
+Mann-Whitney U Test; Cond 15; U=5044.00, p=0.002
+Mann-Whitney U Test; Cond 17; U=4863.50, p=0.010
+Mann-Whitney U Test; Cond 20; U=5152.00, p=0.000
+Mann-Whitney U Test; Cond 21; U=4782.00, p=0.022
+Mann-Whitney U Test; Cond 22; U=5893.50, p=0.000
+Mann-Whitney U Test; Cond 23; U=5092.00, p=0.001
+Mann-Whitney U Test; Cond 26; U=6384.50, p=0.000
+Mann-Whitney U Test; Cond 27; U=5135.00, p=0.000
+Mann-Whitney U Test; Cond 32; U=4681.00, p=0.049
+Mann-Whitney U Test; Cond 33; U=5592.50, p=0.000
+Mann-Whitney U Test; Cond 34; U=6156.00, p=0.000
+Mann-Whitney U Test; Cond 35; U=5501.00, p=0.000
+Mann-Whitney U Test; Cond 37; U=5603.50, p=0.000
+Mann-Whitney U Test; Cond 39; U=5235.50, p=0.000
+Mann-Whitney U Test; Cond 43; U=5254.50, p=0.000
+Mann-Whitney U Test; Cond 44; U=5526.50, p=0.000
+Mann-Whitney U Test; Cond 45; U=5555.00, p=0.000
+Mann-Whitney U Test; Cond 46; U=4967.00, p=0.005
+Mann-Whitney U Test; Cond 47; U=4928.00, p=0.007
+Mann-Whitney U Test; Cond 48; U=5250.00, p=0.000
+Mann-Whitney U Test; Cond 49; U=6108.00, p=0.000
+Mann-Whitney U Test; Cond 50; U=5403.00, p=0.000
+
+
+Lab vs CS_AMT_ES
+Mann-Whitney U Test; Cond 2; U=5244.50, p=0.000
+Mann-Whitney U Test; Cond 3; U=4873.00, p=0.000
+Mann-Whitney U Test; Cond 5; U=5941.00, p=0.000
+Mann-Whitney U Test; Cond 6; U=4260.00, p=0.041
+Mann-Whitney U Test; Cond 7; U=4325.50, p=0.031
+Mann-Whitney U Test; Cond 8; U=2839.00, p=0.008
+Mann-Whitney U Test; Cond 11; U=5328.50, p=0.000
+Mann-Whitney U Test; Cond 12; U=5484.00, p=0.000
+Mann-Whitney U Test; Cond 13; U=4667.00, p=0.001
+Mann-Whitney U Test; Cond 15; U=4716.00, p=0.000
+Mann-Whitney U Test; Cond 16; U=4570.50, p=0.002
+Mann-Whitney U Test; Cond 17; U=4340.50, p=0.022
+Mann-Whitney U Test; Cond 20; U=4250.00, p=0.045
+Mann-Whitney U Test; Cond 21; U=5650.50, p=0.000
+Mann-Whitney U Test; Cond 22; U=5590.00, p=0.000
+Mann-Whitney U Test; Cond 25; U=2988.00, p=0.027
+Mann-Whitney U Test; Cond 26; U=5968.50, p=0.000
+Mann-Whitney U Test; Cond 27; U=4421.50, p=0.001
+Mann-Whitney U Test; Cond 28; U=4584.50, p=0.002
+Mann-Whitney U Test; Cond 31; U=2887.50, p=0.012
+Mann-Whitney U Test; Cond 33; U=4716.50, p=0.000
+Mann-Whitney U Test; Cond 34; U=6060.00, p=0.000
+Mann-Whitney U Test; Cond 35; U=4656.50, p=0.001
+Mann-Whitney U Test; Cond 37; U=4371.50, p=0.017
+Mann-Whitney U Test; Cond 43; U=4596.00, p=0.003
+Mann-Whitney U Test; Cond 45; U=4984.50, p=0.000
+Mann-Whitney U Test; Cond 46; U=4809.50, p=0.000
+Mann-Whitney U Test; Cond 47; U=5103.50, p=0.000
+Mann-Whitney U Test; Cond 48; U=4708.00, p=0.001
+Mann-Whitney U Test; Cond 49; U=5351.50, p=0.000
+Mann-Whitney U Test; Cond 50; U=4278.00, p=0.011
+
+
+Lab vs CS_CW_DE
+Mann-Whitney U Test; Cond 5; U=6987.50, p=0.000
+Mann-Whitney U Test; Cond 12; U=7717.00, p=0.000
+Mann-Whitney U Test; Cond 22; U=6423.00, p=0.000
+Mann-Whitney U Test; Cond 26; U=7856.00, p=0.000
+Mann-Whitney U Test; Cond 27; U=8477.50, p=0.000
+Mann-Whitney U Test; Cond 29; U=3618.00, p=0.000
+Mann-Whitney U Test; Cond 31; U=3516.50, p=0.000
+Mann-Whitney U Test; Cond 34; U=6549.50, p=0.000
+Mann-Whitney U Test; Cond 36; U=3744.00, p=0.001
+Mann-Whitney U Test; Cond 42; U=3521.50, p=0.000
+Mann-Whitney U Test; Cond 43; U=8201.50, p=0.000
+
+
+Lab vs CS_AMT_EN
+Mann-Whitney U Test; Cond 5; U=6196.50, p=0.000
+Mann-Whitney U Test; Cond 12; U=5969.00, p=0.000
+Mann-Whitney U Test; Cond 13; U=5137.00, p=0.001
+Mann-Whitney U Test; Cond 14; U=5130.00, p=0.001
+Mann-Whitney U Test; Cond 20; U=5152.00, p=0.000
+Mann-Whitney U Test; Cond 22; U=5893.50, p=0.000
+Mann-Whitney U Test; Cond 23; U=5092.00, p=0.001
+Mann-Whitney U Test; Cond 26; U=6384.50, p=0.000
+Mann-Whitney U Test; Cond 27; U=5135.00, p=0.000
+Mann-Whitney U Test; Cond 33; U=5592.50, p=0.000
+Mann-Whitney U Test; Cond 34; U=6156.00, p=0.000
+Mann-Whitney U Test; Cond 35; U=5501.00, p=0.000
+Mann-Whitney U Test; Cond 37; U=5603.50, p=0.000
+Mann-Whitney U Test; Cond 39; U=5235.50, p=0.000
+Mann-Whitney U Test; Cond 43; U=5254.50, p=0.000
+Mann-Whitney U Test; Cond 44; U=5526.50, p=0.000
+Mann-Whitney U Test; Cond 45; U=5555.00, p=0.000
+Mann-Whitney U Test; Cond 48; U=5250.00, p=0.000
+Mann-Whitney U Test; Cond 49; U=6108.00, p=0.000
+Mann-Whitney U Test; Cond 50; U=5403.00, p=0.000
+
+
+Lab vs CS_AMT_ES
+Mann-Whitney U Test; Cond 2; U=5244.50, p=0.000
+Mann-Whitney U Test; Cond 3; U=4873.00, p=0.000
+Mann-Whitney U Test; Cond 5; U=5941.00, p=0.000
+Mann-Whitney U Test; Cond 11; U=5328.50, p=0.000
+Mann-Whitney U Test; Cond 12; U=5484.00, p=0.000
+Mann-Whitney U Test; Cond 13; U=4667.00, p=0.001
+Mann-Whitney U Test; Cond 15; U=4716.00, p=0.000
+Mann-Whitney U Test; Cond 21; U=5650.50, p=0.000
+Mann-Whitney U Test; Cond 22; U=5590.00, p=0.000
+Mann-Whitney U Test; Cond 26; U=5968.50, p=0.000
+Mann-Whitney U Test; Cond 33; U=4716.50, p=0.000
+Mann-Whitney U Test; Cond 34; U=6060.00, p=0.000
+Mann-Whitney U Test; Cond 45; U=4984.50, p=0.000
+Mann-Whitney U Test; Cond 46; U=4809.50, p=0.000
+Mann-Whitney U Test; Cond 47; U=5103.50, p=0.000
+Mann-Whitney U Test; Cond 48; U=4708.00, p=0.001
+Mann-Whitney U Test; Cond 49; U=5351.50, p=0.000
+
+
+CS_CW_DE vs CS_AMT_EN
+Independent-samples T-Test; Cond 18; t(184.000)=2.779, p=0.006
+Independent-samples T-Test; Cond 34; t(185.000)=2.916, p=0.004
+Independent-samples T-Test; Cond 33; t(185.000)=3.761, p=0.000
+Independent-samples T-Test; Cond 30; t(185.704)=3.143, p=0.002
+Independent-samples T-Test; Cond 49; t(163.678)=4.354, p=0.000
+Independent-samples T-Test; Cond 28; t(157.020)=2.268, p=0.025
+Independent-samples T-Test; Cond 44; t(185.739)=3.697, p=0.000
+Independent-samples T-Test; Cond 39; t(184.000)=3.261, p=0.001
+Independent-samples T-Test; Cond 12; t(212.000)=2.782, p=0.006
+Independent-samples T-Test; Cond 24; t(147.501)=3.291, p=0.001
+Independent-samples T-Test; Cond 36; t(186.000)=3.003, p=0.003
+Independent-samples T-Test; Cond 14; t(184.000)=2.439, p=0.016
+Independent-samples T-Test; Cond 41; t(185.000)=2.529, p=0.012
+Independent-samples T-Test; Cond 2; t(154.466)=3.984, p=0.000
+Independent-samples T-Test; Cond 45; t(181.189)=3.820, p=0.000
+Independent-samples T-Test; Cond 42; t(185.000)=4.695, p=0.000
+Independent-samples T-Test; Cond 35; t(185.000)=2.572, p=0.011
+Independent-samples T-Test; Cond 23; t(184.000)=5.193, p=0.000
+Independent-samples T-Test; Cond 29; t(184.186)=4.624, p=0.000
+Independent-samples T-Test; Cond 6; t(172.544)=2.701, p=0.008
+Independent-samples T-Test; Cond 50; t(132.341)=4.538, p=0.000
+Independent-samples T-Test; Cond 8; t(185.000)=2.001, p=0.047
+Independent-samples T-Test; Cond 7; t(186.000)=2.257, p=0.025
+Independent-samples T-Test; Cond 9; t(210.000)=2.821, p=0.005
+Independent-samples T-Test; Cond 37; t(186.000)=5.178, p=0.000
+Independent-samples T-Test; Cond 31; t(185.000)=3.238, p=0.001
+Independent-samples T-Test; Cond 10; t(186.000)=3.272, p=0.001
+Independent-samples T-Test; Cond 15; t(211.000)=2.265, p=0.025
+Independent-samples T-Test; Cond 17; t(210.000)=2.470, p=0.014
+Independent-samples T-Test; Cond 32; t(161.893)=4.952, p=0.000
+
+
+CS_CW_DE vs CS_AMT_ES
+Independent-samples T-Test; Cond 34; t(177.000)=5.172, p=0.000
+Independent-samples T-Test; Cond 33; t(177.000)=2.216, p=0.028
+Independent-samples T-Test; Cond 46; t(175.000)=2.065, p=0.040
+Independent-samples T-Test; Cond 1; t(177.997)=2.558, p=0.011
+Independent-samples T-Test; Cond 3; t(174.938)=4.024, p=0.000
+Independent-samples T-Test; Cond 49; t(148.670)=3.578, p=0.000
+Independent-samples T-Test; Cond 28; t(176.000)=3.614, p=0.000
+Independent-samples T-Test; Cond 47; t(176.000)=2.033, p=0.044
+Independent-samples T-Test; Cond 12; t(132.924)=3.516, p=0.001
+Independent-samples T-Test; Cond 24; t(176.000)=2.962, p=0.003
+Independent-samples T-Test; Cond 22; t(176.102)=2.903, p=0.004
+Independent-samples T-Test; Cond 36; t(178.000)=5.243, p=0.000
+Independent-samples T-Test; Cond 2; t(176.000)=7.301, p=0.000
+Independent-samples T-Test; Cond 11; t(175.965)=3.585, p=0.000
+Independent-samples T-Test; Cond 45; t(175.000)=3.479, p=0.001
+Independent-samples T-Test; Cond 16; t(178.000)=2.949, p=0.004
+Independent-samples T-Test; Cond 23; t(176.000)=3.286, p=0.001
+Independent-samples T-Test; Cond 29; t(178.000)=2.147, p=0.033
+Independent-samples T-Test; Cond 6; t(176.000)=2.744, p=0.007
+Independent-samples T-Test; Cond 50; t(136.349)=2.125, p=0.035
+Independent-samples T-Test; Cond 21; t(202.000)=6.321, p=0.000
+Independent-samples T-Test; Cond 37; t(140.174)=2.430, p=0.016
+Independent-samples T-Test; Cond 15; t(203.000)=2.571, p=0.011
+Independent-samples T-Test; Cond 27; t(203.000)=-2.123, p=0.035
+Independent-samples T-Test; Cond 5; t(173.379)=2.668, p=0.008
+
+
+CS_CW_DE vs CS_AMT_EN
+Mann-Whitney U Test; Cond 18; U=5148.50, p=0.010
+Mann-Whitney U Test; Cond 34; U=5394.00, p=0.003
+Mann-Whitney U Test; Cond 33; U=5594.50, p=0.000
+Mann-Whitney U Test; Cond 30; U=6770.50, p=0.001
+Mann-Whitney U Test; Cond 49; U=5793.00, p=0.000
+Mann-Whitney U Test; Cond 28; U=5084.50, p=0.019
+Mann-Whitney U Test; Cond 44; U=5742.00, p=0.000
+Mann-Whitney U Test; Cond 39; U=5342.00, p=0.002
+Mann-Whitney U Test; Cond 12; U=6795.00, p=0.001
+Mann-Whitney U Test; Cond 24; U=5308.00, p=0.003
+Mann-Whitney U Test; Cond 36; U=5408.00, p=0.002
+Mann-Whitney U Test; Cond 14; U=5152.50, p=0.010
+Mann-Whitney U Test; Cond 41; U=5138.00, p=0.017
+Mann-Whitney U Test; Cond 2; U=5479.00, p=0.000
+Mann-Whitney U Test; Cond 45; U=5480.00, p=0.000
+Mann-Whitney U Test; Cond 42; U=5903.00, p=0.000
+Mann-Whitney U Test; Cond 35; U=5182.00, p=0.015
+Mann-Whitney U Test; Cond 23; U=5904.50, p=0.000
+Mann-Whitney U Test; Cond 29; U=5793.50, p=0.000
+Mann-Whitney U Test; Cond 50; U=5655.00, p=0.000
+Mann-Whitney U Test; Cond 8; U=5104.50, p=0.022
+Mann-Whitney U Test; Cond 7; U=5165.50, p=0.026
+Mann-Whitney U Test; Cond 9; U=6470.50, p=0.007
+Mann-Whitney U Test; Cond 37; U=6122.50, p=0.000
+Mann-Whitney U Test; Cond 31; U=5440.00, p=0.001
+Mann-Whitney U Test; Cond 10; U=5464.00, p=0.001
+Mann-Whitney U Test; Cond 15; U=6235.00, p=0.043
+Mann-Whitney U Test; Cond 17; U=6291.50, p=0.025
+Mann-Whitney U Test; Cond 32; U=5933.50, p=0.000
+
+
+CS_CW_DE vs CS_AMT_ES
+Mann-Whitney U Test; Cond 34; U=5583.50, p=0.000
+Mann-Whitney U Test; Cond 33; U=4674.50, p=0.018
+Mann-Whitney U Test; Cond 1; U=4583.50, p=0.017
+Mann-Whitney U Test; Cond 3; U=5103.00, p=0.000
+Mann-Whitney U Test; Cond 49; U=5063.50, p=0.000
+Mann-Whitney U Test; Cond 28; U=5012.50, p=0.000
+Mann-Whitney U Test; Cond 47; U=4551.50, p=0.038
+Mann-Whitney U Test; Cond 12; U=6370.00, p=0.000
+Mann-Whitney U Test; Cond 24; U=4807.00, p=0.003
+Mann-Whitney U Test; Cond 22; U=4804.00, p=0.010
+Mann-Whitney U Test; Cond 36; U=5492.00, p=0.000
+Mann-Whitney U Test; Cond 2; U=5914.00, p=0.000
+Mann-Whitney U Test; Cond 11; U=4873.00, p=0.001
+Mann-Whitney U Test; Cond 45; U=4948.50, p=0.001
+Mann-Whitney U Test; Cond 16; U=4919.50, p=0.002
+Mann-Whitney U Test; Cond 23; U=4835.00, p=0.002
+Mann-Whitney U Test; Cond 29; U=4604.50, p=0.040
+Mann-Whitney U Test; Cond 6; U=4675.50, p=0.011
+Mann-Whitney U Test; Cond 50; U=4453.50, p=0.043
+Mann-Whitney U Test; Cond 21; U=7153.50, p=0.000
+Mann-Whitney U Test; Cond 37; U=4779.00, p=0.010
+Mann-Whitney U Test; Cond 15; U=5863.50, p=0.011
+Mann-Whitney U Test; Cond 27; U=4136.00, p=0.033
+Mann-Whitney U Test; Cond 17; U=5621.00, p=0.048
+Mann-Whitney U Test; Cond 5; U=4752.50, p=0.010
+
+
+CS_CW_DE vs CS_AMT_EN
+Mann-Whitney U Test; Cond 33; U=5594.50, p=0.000
+Mann-Whitney U Test; Cond 30; U=6770.50, p=0.001
+Mann-Whitney U Test; Cond 49; U=5793.00, p=0.000
+Mann-Whitney U Test; Cond 44; U=5742.00, p=0.000
+Mann-Whitney U Test; Cond 12; U=6795.00, p=0.001
+Mann-Whitney U Test; Cond 2; U=5479.00, p=0.000
+Mann-Whitney U Test; Cond 45; U=5480.00, p=0.000
+Mann-Whitney U Test; Cond 42; U=5903.00, p=0.000
+Mann-Whitney U Test; Cond 23; U=5904.50, p=0.000
+Mann-Whitney U Test; Cond 29; U=5793.50, p=0.000
+Mann-Whitney U Test; Cond 50; U=5655.00, p=0.000
+Mann-Whitney U Test; Cond 37; U=6122.50, p=0.000
+Mann-Whitney U Test; Cond 32; U=5933.50, p=0.000
+
+
+CS_CW_DE vs CS_AMT_ES
+Mann-Whitney U Test; Cond 34; U=5583.50, p=0.000
+Mann-Whitney U Test; Cond 3; U=5103.00, p=0.000
+Mann-Whitney U Test; Cond 49; U=5063.50, p=0.000
+Mann-Whitney U Test; Cond 28; U=5012.50, p=0.000
+Mann-Whitney U Test; Cond 12; U=6370.00, p=0.000
+Mann-Whitney U Test; Cond 36; U=5492.00, p=0.000
+Mann-Whitney U Test; Cond 2; U=5914.00, p=0.000
+Mann-Whitney U Test; Cond 45; U=4948.50, p=0.001
+Mann-Whitney U Test; Cond 21; U=7153.50, p=0.000
+
+
+Significant differences per cond. All vs All -> Lab
+Significant differences per cond. All vs All -> CS_CW_DE
+Significant differences per cond. All vs All -> CS_AMT_EN
+Significant differences per cond. All vs All -> CS_AMT_ES
+Significant differences per cond. All vs All -> Lab
+Paired-samples T-Test; Cond: 1 vs 2; t(3.000)=34.457, p=0.000
+Paired-samples T-Test; Cond: 1 vs 3; t(3.000)=16.182, p=0.001
+Paired-samples T-Test; Cond: 1 vs 4; t(3.000)=55.000, p=0.000
+Paired-samples T-Test; Cond: 1 vs 5; t(3.000)=13.291, p=0.001
+Paired-samples T-Test; Cond: 1 vs 6; t(3.000)=13.145, p=0.001
+Paired-samples T-Test; Cond: 1 vs 7; t(3.000)=36.029, p=0.000
+Paired-samples T-Test; Cond: 1 vs 8; t(3.000)=23.004, p=0.000
+Paired-samples T-Test; Cond: 1 vs 9; t(3.000)=22.333, p=0.000
+Paired-samples T-Test; Cond: 1 vs 12; t(3.000)=55.759, p=0.000
+Paired-samples T-Test; Cond: 1 vs 13; t(3.000)=83.000, p=0.000
+Paired-samples T-Test; Cond: 1 vs 15; t(3.000)=20.196, p=0.000
+Paired-samples T-Test; Cond: 1 vs 16; t(3.000)=22.166, p=0.000
+Paired-samples T-Test; Cond: 1 vs 17; t(3.000)=25.407, p=0.000
+Paired-samples T-Test; Cond: 1 vs 18; t(3.000)=35.218, p=0.000
+Paired-samples T-Test; Cond: 1 vs 19; t(3.000)=12.289, p=0.001
+Paired-samples T-Test; Cond: 1 vs 21; t(3.000)=19.308, p=0.000
+Paired-samples T-Test; Cond: 1 vs 22; t(3.000)=12.183, p=0.001
+Paired-samples T-Test; Cond: 1 vs 23; t(3.000)=87.529, p=0.000
+Paired-samples T-Test; Cond: 1 vs 24; t(3.000)=24.786, p=0.000
+Paired-samples T-Test; Cond: 1 vs 25; t(3.000)=12.257, p=0.001
+Paired-samples T-Test; Cond: 1 vs 26; t(3.000)=88.335, p=0.000
+Paired-samples T-Test; Cond: 1 vs 27; t(3.000)=82.220, p=0.000
+Paired-samples T-Test; Cond: 1 vs 28; t(3.000)=26.802, p=0.000
+Paired-samples T-Test; Cond: 1 vs 29; t(3.000)=21.325, p=0.000
+Paired-samples T-Test; Cond: 1 vs 30; t(3.000)=18.378, p=0.000
+Paired-samples T-Test; Cond: 1 vs 32; t(3.000)=17.232, p=0.000
+Paired-samples T-Test; Cond: 1 vs 33; t(3.000)=18.845, p=0.000
+Paired-samples T-Test; Cond: 1 vs 34; t(3.000)=25.861, p=0.000
+Paired-samples T-Test; Cond: 1 vs 36; t(3.000)=39.403, p=0.000
+Paired-samples T-Test; Cond: 1 vs 37; t(3.000)=23.534, p=0.000
+Paired-samples T-Test; Cond: 1 vs 38; t(3.000)=16.946, p=0.000
+Paired-samples T-Test; Cond: 1 vs 39; t(3.000)=11.470, p=0.001
+Paired-samples T-Test; Cond: 1 vs 41; t(3.000)=11.334, p=0.001
+Paired-samples T-Test; Cond: 1 vs 49; t(3.000)=27.058, p=0.000
+Paired-samples T-Test; Cond: 1 vs 50; t(3.000)=96.417, p=0.000
+Paired-samples T-Test; Cond: 2 vs 3; t(3.000)=-10.187, p=0.002
+Paired-samples T-Test; Cond: 2 vs 4; t(3.000)=15.760, p=0.001
+Paired-samples T-Test; Cond: 2 vs 6; t(3.000)=-19.324, p=0.000
+Paired-samples T-Test; Cond: 2 vs 7; t(3.000)=-17.223, p=0.000
+Paired-samples T-Test; Cond: 2 vs 8; t(3.000)=-34.255, p=0.000
+Paired-samples T-Test; Cond: 2 vs 10; t(3.000)=-11.543, p=0.001
+Paired-samples T-Test; Cond: 2 vs 12; t(3.000)=52.746, p=0.000
+Paired-samples T-Test; Cond: 2 vs 13; t(3.000)=-13.863, p=0.001
+Paired-samples T-Test; Cond: 2 vs 14; t(3.000)=-13.178, p=0.001
+Paired-samples T-Test; Cond: 2 vs 18; t(3.000)=-11.638, p=0.001
+Paired-samples T-Test; Cond: 2 vs 27; t(3.000)=31.326, p=0.000
+Paired-samples T-Test; Cond: 2 vs 50; t(3.000)=17.667, p=0.000
+Paired-samples T-Test; Cond: 3 vs 4; t(3.000)=17.346, p=0.000
+Paired-samples T-Test; Cond: 3 vs 9; t(3.000)=23.270, p=0.000
+Paired-samples T-Test; Cond: 3 vs 12; t(3.000)=22.877, p=0.000
+Paired-samples T-Test; Cond: 3 vs 14; t(3.000)=-19.799, p=0.000
+Paired-samples T-Test; Cond: 3 vs 15; t(3.000)=10.200, p=0.002
+Paired-samples T-Test; Cond: 3 vs 16; t(3.000)=13.056, p=0.001
+Paired-samples T-Test; Cond: 3 vs 23; t(3.000)=14.838, p=0.001
+Paired-samples T-Test; Cond: 3 vs 24; t(3.000)=12.388, p=0.001
+Paired-samples T-Test; Cond: 3 vs 26; t(3.000)=34.411, p=0.000
+Paired-samples T-Test; Cond: 3 vs 27; t(3.000)=21.120, p=0.000
+Paired-samples T-Test; Cond: 3 vs 28; t(3.000)=15.446, p=0.001
+Paired-samples T-Test; Cond: 3 vs 33; t(3.000)=21.229, p=0.000
+Paired-samples T-Test; Cond: 3 vs 36; t(3.000)=10.864, p=0.002
+Paired-samples T-Test; Cond: 3 vs 37; t(3.000)=24.334, p=0.000
+Paired-samples T-Test; Cond: 3 vs 49; t(3.000)=26.696, p=0.000
+Paired-samples T-Test; Cond: 3 vs 50; t(3.000)=22.849, p=0.000
+Paired-samples T-Test; Cond: 4 vs 5; t(3.000)=-10.197, p=0.002
+Paired-samples T-Test; Cond: 4 vs 6; t(3.000)=-38.141, p=0.000
+Paired-samples T-Test; Cond: 4 vs 7; t(3.000)=-30.571, p=0.000
+Paired-samples T-Test; Cond: 4 vs 8; t(3.000)=-46.490, p=0.000
+Paired-samples T-Test; Cond: 4 vs 9; t(3.000)=-10.915, p=0.002
+Paired-samples T-Test; Cond: 4 vs 10; t(3.000)=-24.575, p=0.000
+Paired-samples T-Test; Cond: 4 vs 13; t(3.000)=-31.758, p=0.000
+Paired-samples T-Test; Cond: 4 vs 14; t(3.000)=-19.920, p=0.000
+Paired-samples T-Test; Cond: 4 vs 16; t(3.000)=-11.651, p=0.001
+Paired-samples T-Test; Cond: 4 vs 17; t(3.000)=-12.458, p=0.001
+Paired-samples T-Test; Cond: 4 vs 18; t(3.000)=-27.795, p=0.000
+Paired-samples T-Test; Cond: 4 vs 19; t(3.000)=-25.422, p=0.000
+Paired-samples T-Test; Cond: 4 vs 20; t(3.000)=-16.046, p=0.001
+Paired-samples T-Test; Cond: 4 vs 22; t(3.000)=-10.722, p=0.002
+Paired-samples T-Test; Cond: 4 vs 23; t(3.000)=-15.446, p=0.001
+Paired-samples T-Test; Cond: 4 vs 25; t(3.000)=-15.823, p=0.001
+Paired-samples T-Test; Cond: 4 vs 29; t(3.000)=-16.493, p=0.000
+Paired-samples T-Test; Cond: 4 vs 30; t(3.000)=-12.152, p=0.001
+Paired-samples T-Test; Cond: 4 vs 32; t(3.000)=-11.438, p=0.001
+Paired-samples T-Test; Cond: 4 vs 36; t(3.000)=-20.584, p=0.000
+Paired-samples T-Test; Cond: 4 vs 38; t(3.000)=-11.807, p=0.001
+Paired-samples T-Test; Cond: 4 vs 39; t(3.000)=-14.541, p=0.001
+Paired-samples T-Test; Cond: 4 vs 40; t(3.000)=-21.997, p=0.000
+Paired-samples T-Test; Cond: 4 vs 41; t(3.000)=-15.224, p=0.001
+Paired-samples T-Test; Cond: 5 vs 12; t(3.000)=12.105, p=0.001
+Paired-samples T-Test; Cond: 5 vs 14; t(3.000)=-32.333, p=0.000
+Paired-samples T-Test; Cond: 5 vs 26; t(3.000)=14.491, p=0.001
+Paired-samples T-Test; Cond: 5 vs 27; t(3.000)=11.602, p=0.001
+Paired-samples T-Test; Cond: 5 vs 33; t(3.000)=16.641, p=0.000
+Paired-samples T-Test; Cond: 5 vs 37; t(3.000)=10.832, p=0.002
+Paired-samples T-Test; Cond: 5 vs 49; t(3.000)=22.696, p=0.000
+Paired-samples T-Test; Cond: 5 vs 50; t(3.000)=12.385, p=0.001
+Paired-samples T-Test; Cond: 6 vs 7; t(3.000)=13.168, p=0.001
+Paired-samples T-Test; Cond: 6 vs 9; t(3.000)=12.946, p=0.001
+Paired-samples T-Test; Cond: 6 vs 12; t(3.000)=31.667, p=0.000
+Paired-samples T-Test; Cond: 6 vs 13; t(3.000)=22.300, p=0.000
+Paired-samples T-Test; Cond: 6 vs 15; t(3.000)=14.471, p=0.001
+Paired-samples T-Test; Cond: 6 vs 16; t(3.000)=12.721, p=0.001
+Paired-samples T-Test; Cond: 6 vs 17; t(3.000)=14.800, p=0.001
+Paired-samples T-Test; Cond: 6 vs 18; t(3.000)=14.702, p=0.001
+Paired-samples T-Test; Cond: 6 vs 21; t(3.000)=13.299, p=0.001
+Paired-samples T-Test; Cond: 6 vs 23; t(3.000)=29.667, p=0.000
+Paired-samples T-Test; Cond: 6 vs 24; t(3.000)=15.750, p=0.001
+Paired-samples T-Test; Cond: 6 vs 26; t(3.000)=38.895, p=0.000
+Paired-samples T-Test; Cond: 6 vs 27; t(3.000)=45.447, p=0.000
+Paired-samples T-Test; Cond: 6 vs 28; t(3.000)=17.027, p=0.000
+Paired-samples T-Test; Cond: 6 vs 29; t(3.000)=10.161, p=0.002
+Paired-samples T-Test; Cond: 6 vs 30; t(3.000)=12.367, p=0.001
+Paired-samples T-Test; Cond: 6 vs 32; t(3.000)=11.213, p=0.002
+Paired-samples T-Test; Cond: 6 vs 33; t(3.000)=11.790, p=0.001
+Paired-samples T-Test; Cond: 6 vs 34; t(3.000)=18.540, p=0.000
+Paired-samples T-Test; Cond: 6 vs 36; t(3.000)=25.850, p=0.000
+Paired-samples T-Test; Cond: 6 vs 37; t(3.000)=15.179, p=0.001
+Paired-samples T-Test; Cond: 6 vs 49; t(3.000)=19.645, p=0.000
+Paired-samples T-Test; Cond: 6 vs 50; t(3.000)=49.537, p=0.000
+Paired-samples T-Test; Cond: 7 vs 8; t(3.000)=-13.113, p=0.001
+Paired-samples T-Test; Cond: 7 vs 12; t(3.000)=44.384, p=0.000
+Paired-samples T-Test; Cond: 7 vs 23; t(3.000)=26.870, p=0.000
+Paired-samples T-Test; Cond: 7 vs 24; t(3.000)=16.859, p=0.000
+Paired-samples T-Test; Cond: 7 vs 26; t(3.000)=55.154, p=0.000
+Paired-samples T-Test; Cond: 7 vs 27; t(3.000)=45.839, p=0.000
+Paired-samples T-Test; Cond: 7 vs 28; t(3.000)=10.464, p=0.002
+Paired-samples T-Test; Cond: 7 vs 34; t(3.000)=11.223, p=0.002
+Paired-samples T-Test; Cond: 7 vs 36; t(3.000)=13.187, p=0.001
+Paired-samples T-Test; Cond: 7 vs 49; t(3.000)=13.264, p=0.001
+Paired-samples T-Test; Cond: 7 vs 50; t(3.000)=50.390, p=0.000
+Paired-samples T-Test; Cond: 8 vs 12; t(3.000)=60.391, p=0.000
+Paired-samples T-Test; Cond: 8 vs 13; t(3.000)=31.758, p=0.000
+Paired-samples T-Test; Cond: 8 vs 15; t(3.000)=11.663, p=0.001
+Paired-samples T-Test; Cond: 8 vs 17; t(3.000)=20.930, p=0.000
+Paired-samples T-Test; Cond: 8 vs 21; t(3.000)=16.728, p=0.000
+Paired-samples T-Test; Cond: 8 vs 23; t(3.000)=40.992, p=0.000
+Paired-samples T-Test; Cond: 8 vs 24; t(3.000)=18.853, p=0.000
+Paired-samples T-Test; Cond: 8 vs 26; t(3.000)=35.701, p=0.000
+Paired-samples T-Test; Cond: 8 vs 27; t(3.000)=133.169, p=0.000
+Paired-samples T-Test; Cond: 8 vs 28; t(3.000)=12.637, p=0.001
+Paired-samples T-Test; Cond: 8 vs 32; t(3.000)=11.889, p=0.001
+Paired-samples T-Test; Cond: 8 vs 33; t(3.000)=10.296, p=0.002
+Paired-samples T-Test; Cond: 8 vs 34; t(3.000)=25.181, p=0.000
+Paired-samples T-Test; Cond: 8 vs 36; t(3.000)=18.898, p=0.000
+Paired-samples T-Test; Cond: 8 vs 37; t(3.000)=12.881, p=0.001
+Paired-samples T-Test; Cond: 8 vs 49; t(3.000)=14.601, p=0.001
+Paired-samples T-Test; Cond: 8 vs 50; t(3.000)=60.048, p=0.000
+Paired-samples T-Test; Cond: 9 vs 10; t(3.000)=-18.995, p=0.000
+Paired-samples T-Test; Cond: 9 vs 12; t(3.000)=12.327, p=0.001
+Paired-samples T-Test; Cond: 9 vs 14; t(3.000)=-80.833, p=0.000
+Paired-samples T-Test; Cond: 9 vs 18; t(3.000)=-11.286, p=0.001
+Paired-samples T-Test; Cond: 9 vs 19; t(3.000)=-12.258, p=0.001
+Paired-samples T-Test; Cond: 9 vs 20; t(3.000)=-11.573, p=0.001
+Paired-samples T-Test; Cond: 9 vs 25; t(3.000)=-11.353, p=0.001
+Paired-samples T-Test; Cond: 9 vs 26; t(3.000)=18.278, p=0.000
+Paired-samples T-Test; Cond: 9 vs 27; t(3.000)=12.393, p=0.001
+Paired-samples T-Test; Cond: 9 vs 49; t(3.000)=18.904, p=0.000
+Paired-samples T-Test; Cond: 9 vs 50; t(3.000)=14.098, p=0.001
+Paired-samples T-Test; Cond: 10 vs 12; t(3.000)=19.522, p=0.000
+Paired-samples T-Test; Cond: 10 vs 19; t(3.000)=15.000, p=0.001
+Paired-samples T-Test; Cond: 10 vs 23; t(3.000)=14.552, p=0.001
+Paired-samples T-Test; Cond: 10 vs 24; t(3.000)=14.234, p=0.001
+Paired-samples T-Test; Cond: 10 vs 26; t(3.000)=33.936, p=0.000
+Paired-samples T-Test; Cond: 10 vs 27; t(3.000)=22.863, p=0.000
+Paired-samples T-Test; Cond: 10 vs 28; t(3.000)=59.644, p=0.000
+Paired-samples T-Test; Cond: 10 vs 30; t(3.000)=41.054, p=0.000
+Paired-samples T-Test; Cond: 10 vs 33; t(3.000)=13.404, p=0.001
+Paired-samples T-Test; Cond: 10 vs 36; t(3.000)=27.330, p=0.000
+Paired-samples T-Test; Cond: 10 vs 37; t(3.000)=12.593, p=0.001
+Paired-samples T-Test; Cond: 10 vs 49; t(3.000)=36.686, p=0.000
+Paired-samples T-Test; Cond: 10 vs 50; t(3.000)=29.775, p=0.000
+Paired-samples T-Test; Cond: 12 vs 13; t(3.000)=-40.503, p=0.000
+Paired-samples T-Test; Cond: 12 vs 14; t(3.000)=-23.581, p=0.000
+Paired-samples T-Test; Cond: 12 vs 16; t(3.000)=-16.015, p=0.001
+Paired-samples T-Test; Cond: 12 vs 17; t(3.000)=-43.841, p=0.000
+Paired-samples T-Test; Cond: 12 vs 18; t(3.000)=-24.257, p=0.000
+Paired-samples T-Test; Cond: 12 vs 19; t(3.000)=-18.025, p=0.000
+Paired-samples T-Test; Cond: 12 vs 20; t(3.000)=-14.425, p=0.001
+Paired-samples T-Test; Cond: 12 vs 21; t(3.000)=-11.091, p=0.002
+Paired-samples T-Test; Cond: 12 vs 22; t(3.000)=-15.593, p=0.001
+Paired-samples T-Test; Cond: 12 vs 23; t(3.000)=-28.262, p=0.000
+Paired-samples T-Test; Cond: 12 vs 25; t(3.000)=-19.957, p=0.000
+Paired-samples T-Test; Cond: 12 vs 29; t(3.000)=-29.213, p=0.000
+Paired-samples T-Test; Cond: 12 vs 30; t(3.000)=-10.608, p=0.002
+Paired-samples T-Test; Cond: 12 vs 32; t(3.000)=-10.577, p=0.002
+Paired-samples T-Test; Cond: 12 vs 34; t(3.000)=-10.752, p=0.002
+Paired-samples T-Test; Cond: 12 vs 36; t(3.000)=-10.549, p=0.002
+Paired-samples T-Test; Cond: 12 vs 38; t(3.000)=-17.128, p=0.000
+Paired-samples T-Test; Cond: 12 vs 40; t(3.000)=-13.005, p=0.001
+Paired-samples T-Test; Cond: 12 vs 41; t(3.000)=-10.643, p=0.002
+Paired-samples T-Test; Cond: 13 vs 23; t(3.000)=36.742, p=0.000
+Paired-samples T-Test; Cond: 13 vs 24; t(3.000)=11.438, p=0.001
+Paired-samples T-Test; Cond: 13 vs 26; t(3.000)=38.341, p=0.000
+Paired-samples T-Test; Cond: 13 vs 27; t(3.000)=68.743, p=0.000
+Paired-samples T-Test; Cond: 13 vs 34; t(3.000)=11.000, p=0.002
+Paired-samples T-Test; Cond: 13 vs 36; t(3.000)=10.614, p=0.002
+Paired-samples T-Test; Cond: 13 vs 49; t(3.000)=10.679, p=0.002
+Paired-samples T-Test; Cond: 13 vs 50; t(3.000)=59.397, p=0.000
+Paired-samples T-Test; Cond: 14 vs 15; t(3.000)=12.650, p=0.001
+Paired-samples T-Test; Cond: 14 vs 16; t(3.000)=17.047, p=0.000
+Paired-samples T-Test; Cond: 14 vs 17; t(3.000)=10.801, p=0.002
+Paired-samples T-Test; Cond: 14 vs 21; t(3.000)=10.282, p=0.002
+Paired-samples T-Test; Cond: 14 vs 23; t(3.000)=17.164, p=0.000
+Paired-samples T-Test; Cond: 14 vs 24; t(3.000)=16.393, p=0.000
+Paired-samples T-Test; Cond: 14 vs 26; t(3.000)=34.818, p=0.000
+Paired-samples T-Test; Cond: 14 vs 27; t(3.000)=22.397, p=0.000
+Paired-samples T-Test; Cond: 14 vs 28; t(3.000)=27.175, p=0.000
+Paired-samples T-Test; Cond: 14 vs 29; t(3.000)=15.625, p=0.001
+Paired-samples T-Test; Cond: 14 vs 30; t(3.000)=14.301, p=0.001
+Paired-samples T-Test; Cond: 14 vs 32; t(3.000)=10.467, p=0.002
+Paired-samples T-Test; Cond: 14 vs 33; t(3.000)=43.818, p=0.000
+Paired-samples T-Test; Cond: 14 vs 34; t(3.000)=11.658, p=0.001
+Paired-samples T-Test; Cond: 14 vs 36; t(3.000)=15.518, p=0.001
+Paired-samples T-Test; Cond: 14 vs 37; t(3.000)=25.877, p=0.000
+Paired-samples T-Test; Cond: 14 vs 47; t(3.000)=10.822, p=0.002
+Paired-samples T-Test; Cond: 14 vs 49; t(3.000)=44.107, p=0.000
+Paired-samples T-Test; Cond: 14 vs 50; t(3.000)=24.929, p=0.000
+Paired-samples T-Test; Cond: 15 vs 25; t(3.000)=-19.866, p=0.000
+Paired-samples T-Test; Cond: 15 vs 38; t(3.000)=-22.045, p=0.000
+Paired-samples T-Test; Cond: 16 vs 25; t(3.000)=-28.213, p=0.000
+Paired-samples T-Test; Cond: 16 vs 26; t(3.000)=18.714, p=0.000
+Paired-samples T-Test; Cond: 16 vs 27; t(3.000)=14.971, p=0.001
+Paired-samples T-Test; Cond: 16 vs 37; t(3.000)=21.667, p=0.000
+Paired-samples T-Test; Cond: 16 vs 49; t(3.000)=14.812, p=0.001
+Paired-samples T-Test; Cond: 16 vs 50; t(3.000)=15.137, p=0.001
+Paired-samples T-Test; Cond: 17 vs 26; t(3.000)=10.605, p=0.002
+Paired-samples T-Test; Cond: 17 vs 27; t(3.000)=20.906, p=0.000
+Paired-samples T-Test; Cond: 17 vs 34; t(3.000)=12.961, p=0.001
+Paired-samples T-Test; Cond: 17 vs 50; t(3.000)=14.370, p=0.001
+Paired-samples T-Test; Cond: 18 vs 23; t(3.000)=20.140, p=0.000
+Paired-samples T-Test; Cond: 18 vs 24; t(3.000)=12.221, p=0.001
+Paired-samples T-Test; Cond: 18 vs 26; t(3.000)=65.054, p=0.000
+Paired-samples T-Test; Cond: 18 vs 27; t(3.000)=31.000, p=0.000
+Paired-samples T-Test; Cond: 18 vs 28; t(3.000)=18.626, p=0.000
+Paired-samples T-Test; Cond: 18 vs 34; t(3.000)=10.514, p=0.002
+Paired-samples T-Test; Cond: 18 vs 36; t(3.000)=23.105, p=0.000
+Paired-samples T-Test; Cond: 18 vs 37; t(3.000)=11.800, p=0.001
+Paired-samples T-Test; Cond: 18 vs 49; t(3.000)=21.879, p=0.000
+Paired-samples T-Test; Cond: 18 vs 50; t(3.000)=43.274, p=0.000
+Paired-samples T-Test; Cond: 19 vs 23; t(3.000)=12.120, p=0.001
+Paired-samples T-Test; Cond: 19 vs 24; t(3.000)=12.692, p=0.001
+Paired-samples T-Test; Cond: 19 vs 26; t(3.000)=30.417, p=0.000
+Paired-samples T-Test; Cond: 19 vs 27; t(3.000)=22.244, p=0.000
+Paired-samples T-Test; Cond: 19 vs 28; t(3.000)=33.959, p=0.000
+Paired-samples T-Test; Cond: 19 vs 30; t(3.000)=17.591, p=0.000
+Paired-samples T-Test; Cond: 19 vs 36; t(3.000)=30.802, p=0.000
+Paired-samples T-Test; Cond: 19 vs 49; t(3.000)=24.012, p=0.000
+Paired-samples T-Test; Cond: 19 vs 50; t(3.000)=30.332, p=0.000
+Paired-samples T-Test; Cond: 20 vs 26; t(3.000)=21.412, p=0.000
+Paired-samples T-Test; Cond: 20 vs 27; t(3.000)=16.244, p=0.001
+Paired-samples T-Test; Cond: 20 vs 28; t(3.000)=19.011, p=0.000
+Paired-samples T-Test; Cond: 20 vs 30; t(3.000)=28.284, p=0.000
+Paired-samples T-Test; Cond: 20 vs 36; t(3.000)=13.301, p=0.001
+Paired-samples T-Test; Cond: 20 vs 37; t(3.000)=10.778, p=0.002
+Paired-samples T-Test; Cond: 20 vs 49; t(3.000)=39.908, p=0.000
+Paired-samples T-Test; Cond: 20 vs 50; t(3.000)=19.174, p=0.000
+Paired-samples T-Test; Cond: 22 vs 24; t(3.000)=13.571, p=0.001
+Paired-samples T-Test; Cond: 22 vs 26; t(3.000)=10.591, p=0.002
+Paired-samples T-Test; Cond: 22 vs 27; t(3.000)=12.653, p=0.001
+Paired-samples T-Test; Cond: 22 vs 50; t(3.000)=11.775, p=0.001
+Paired-samples T-Test; Cond: 23 vs 25; t(3.000)=-14.513, p=0.001
+Paired-samples T-Test; Cond: 23 vs 26; t(3.000)=21.909, p=0.000
+Paired-samples T-Test; Cond: 23 vs 27; t(3.000)=29.847, p=0.000
+Paired-samples T-Test; Cond: 23 vs 29; t(3.000)=-11.802, p=0.001
+Paired-samples T-Test; Cond: 23 vs 50; t(3.000)=24.997, p=0.000
+Paired-samples T-Test; Cond: 24 vs 29; t(3.000)=-13.520, p=0.001
+Paired-samples T-Test; Cond: 24 vs 32; t(3.000)=-12.050, p=0.001
+Paired-samples T-Test; Cond: 24 vs 40; t(3.000)=-10.977, p=0.002
+Paired-samples T-Test; Cond: 25 vs 26; t(3.000)=24.496, p=0.000
+Paired-samples T-Test; Cond: 25 vs 27; t(3.000)=19.516, p=0.000
+Paired-samples T-Test; Cond: 25 vs 28; t(3.000)=11.759, p=0.001
+Paired-samples T-Test; Cond: 25 vs 33; t(3.000)=12.521, p=0.001
+Paired-samples T-Test; Cond: 25 vs 34; t(3.000)=10.929, p=0.002
+Paired-samples T-Test; Cond: 25 vs 36; t(3.000)=10.292, p=0.002
+Paired-samples T-Test; Cond: 25 vs 37; t(3.000)=27.761, p=0.000
+Paired-samples T-Test; Cond: 25 vs 38; t(3.000)=14.931, p=0.001
+Paired-samples T-Test; Cond: 25 vs 49; t(3.000)=22.733, p=0.000
+Paired-samples T-Test; Cond: 25 vs 50; t(3.000)=20.019, p=0.000
+Paired-samples T-Test; Cond: 26 vs 28; t(3.000)=-13.981, p=0.001
+Paired-samples T-Test; Cond: 26 vs 29; t(3.000)=-26.327, p=0.000
+Paired-samples T-Test; Cond: 26 vs 30; t(3.000)=-16.182, p=0.001
+Paired-samples T-Test; Cond: 26 vs 31; t(3.000)=-10.149, p=0.002
+Paired-samples T-Test; Cond: 26 vs 36; t(3.000)=-14.702, p=0.001
+Paired-samples T-Test; Cond: 26 vs 38; t(3.000)=-16.251, p=0.001
+Paired-samples T-Test; Cond: 26 vs 40; t(3.000)=-12.614, p=0.001
+Paired-samples T-Test; Cond: 26 vs 41; t(3.000)=-13.249, p=0.001
+Paired-samples T-Test; Cond: 27 vs 28; t(3.000)=-10.333, p=0.002
+Paired-samples T-Test; Cond: 27 vs 29; t(3.000)=-22.022, p=0.000
+Paired-samples T-Test; Cond: 27 vs 30; t(3.000)=-12.239, p=0.001
+Paired-samples T-Test; Cond: 27 vs 32; t(3.000)=-11.170, p=0.002
+Paired-samples T-Test; Cond: 27 vs 36; t(3.000)=-15.719, p=0.001
+Paired-samples T-Test; Cond: 27 vs 38; t(3.000)=-15.477, p=0.001
+Paired-samples T-Test; Cond: 27 vs 39; t(3.000)=-11.363, p=0.001
+Paired-samples T-Test; Cond: 27 vs 40; t(3.000)=-16.337, p=0.000
+Paired-samples T-Test; Cond: 27 vs 41; t(3.000)=-13.241, p=0.001
+Paired-samples T-Test; Cond: 28 vs 30; t(3.000)=-12.000, p=0.001
+Paired-samples T-Test; Cond: 28 vs 49; t(3.000)=11.717, p=0.001
+Paired-samples T-Test; Cond: 28 vs 50; t(3.000)=13.024, p=0.001
+Paired-samples T-Test; Cond: 29 vs 33; t(3.000)=11.549, p=0.001
+Paired-samples T-Test; Cond: 29 vs 37; t(3.000)=11.955, p=0.001
+Paired-samples T-Test; Cond: 29 vs 49; t(3.000)=12.830, p=0.001
+Paired-samples T-Test; Cond: 29 vs 50; t(3.000)=21.458, p=0.000
+Paired-samples T-Test; Cond: 30 vs 49; t(3.000)=26.421, p=0.000
+Paired-samples T-Test; Cond: 30 vs 50; t(3.000)=14.931, p=0.001
+Paired-samples T-Test; Cond: 31 vs 49; t(3.000)=10.858, p=0.002
+Paired-samples T-Test; Cond: 31 vs 50; t(3.000)=10.710, p=0.002
+Paired-samples T-Test; Cond: 32 vs 50; t(3.000)=10.590, p=0.002
+Paired-samples T-Test; Cond: 36 vs 40; t(3.000)=-10.634, p=0.002
+Paired-samples T-Test; Cond: 36 vs 41; t(3.000)=-10.576, p=0.002
+Paired-samples T-Test; Cond: 36 vs 50; t(3.000)=26.634, p=0.000
+Paired-samples T-Test; Cond: 37 vs 38; t(3.000)=-22.451, p=0.000
+Paired-samples T-Test; Cond: 38 vs 49; t(3.000)=12.415, p=0.001
+Paired-samples T-Test; Cond: 38 vs 50; t(3.000)=14.730, p=0.001
+Paired-samples T-Test; Cond: 39 vs 40; t(3.000)=-14.931, p=0.001
+Paired-samples T-Test; Cond: 39 vs 50; t(3.000)=12.058, p=0.001
+Paired-samples T-Test; Cond: 40 vs 50; t(3.000)=18.222, p=0.000
+Paired-samples T-Test; Cond: 41 vs 49; t(3.000)=11.689, p=0.001
+Paired-samples T-Test; Cond: 41 vs 50; t(3.000)=15.992, p=0.001
+Significant differences per cond. All vs All -> CS_CW_DE
+Paired-samples T-Test; Cond: 1 vs 2; t(3.000)=27.159, p=0.000
+Paired-samples T-Test; Cond: 1 vs 3; t(3.000)=19.436, p=0.000
+Paired-samples T-Test; Cond: 1 vs 4; t(3.000)=39.511, p=0.000
+Paired-samples T-Test; Cond: 1 vs 6; t(3.000)=13.649, p=0.001
+Paired-samples T-Test; Cond: 1 vs 7; t(3.000)=13.228, p=0.001
+Paired-samples T-Test; Cond: 1 vs 8; t(3.000)=12.376, p=0.001
+Paired-samples T-Test; Cond: 1 vs 9; t(3.000)=14.659, p=0.001
+Paired-samples T-Test; Cond: 1 vs 10; t(3.000)=41.256, p=0.000
+Paired-samples T-Test; Cond: 1 vs 12; t(3.000)=31.410, p=0.000
+Paired-samples T-Test; Cond: 1 vs 13; t(3.000)=11.803, p=0.001
+Paired-samples T-Test; Cond: 1 vs 14; t(3.000)=59.596, p=0.000
+Paired-samples T-Test; Cond: 1 vs 15; t(3.000)=44.550, p=0.000
+Paired-samples T-Test; Cond: 1 vs 16; t(3.000)=36.160, p=0.000
+Paired-samples T-Test; Cond: 1 vs 17; t(3.000)=23.452, p=0.000
+Paired-samples T-Test; Cond: 1 vs 18; t(3.000)=22.563, p=0.000
+Paired-samples T-Test; Cond: 1 vs 19; t(3.000)=13.207, p=0.001
+Paired-samples T-Test; Cond: 1 vs 21; t(3.000)=49.383, p=0.000
+Paired-samples T-Test; Cond: 1 vs 22; t(3.000)=51.259, p=0.000
+Paired-samples T-Test; Cond: 1 vs 23; t(3.000)=31.088, p=0.000
+Paired-samples T-Test; Cond: 1 vs 24; t(3.000)=23.309, p=0.000
+Paired-samples T-Test; Cond: 1 vs 25; t(3.000)=26.552, p=0.000
+Paired-samples T-Test; Cond: 1 vs 26; t(3.000)=18.166, p=0.000
+Paired-samples T-Test; Cond: 1 vs 27; t(3.000)=72.167, p=0.000
+Paired-samples T-Test; Cond: 1 vs 28; t(3.000)=25.651, p=0.000
+Paired-samples T-Test; Cond: 1 vs 29; t(3.000)=22.456, p=0.000
+Paired-samples T-Test; Cond: 1 vs 30; t(3.000)=25.754, p=0.000
+Paired-samples T-Test; Cond: 1 vs 31; t(3.000)=13.937, p=0.001
+Paired-samples T-Test; Cond: 1 vs 32; t(3.000)=27.933, p=0.000
+Paired-samples T-Test; Cond: 1 vs 33; t(3.000)=20.063, p=0.000
+Paired-samples T-Test; Cond: 1 vs 36; t(3.000)=22.522, p=0.000
+Paired-samples T-Test; Cond: 1 vs 37; t(3.000)=18.224, p=0.000
+Paired-samples T-Test; Cond: 1 vs 38; t(3.000)=18.265, p=0.000
+Paired-samples T-Test; Cond: 1 vs 40; t(3.000)=23.174, p=0.000
+Paired-samples T-Test; Cond: 1 vs 41; t(3.000)=14.092, p=0.001
+Paired-samples T-Test; Cond: 1 vs 42; t(3.000)=23.457, p=0.000
+Paired-samples T-Test; Cond: 1 vs 49; t(3.000)=23.042, p=0.000
+Paired-samples T-Test; Cond: 1 vs 50; t(3.000)=24.137, p=0.000
+Paired-samples T-Test; Cond: 2 vs 3; t(3.000)=-12.185, p=0.001
+Paired-samples T-Test; Cond: 2 vs 5; t(3.000)=-11.145, p=0.002
+Paired-samples T-Test; Cond: 2 vs 6; t(3.000)=-15.282, p=0.001
+Paired-samples T-Test; Cond: 2 vs 7; t(3.000)=-26.734, p=0.000
+Paired-samples T-Test; Cond: 2 vs 8; t(3.000)=-17.138, p=0.000
+Paired-samples T-Test; Cond: 2 vs 10; t(3.000)=-21.023, p=0.000
+Paired-samples T-Test; Cond: 2 vs 14; t(3.000)=-22.734, p=0.000
+Paired-samples T-Test; Cond: 2 vs 18; t(3.000)=-11.319, p=0.001
+Paired-samples T-Test; Cond: 2 vs 19; t(3.000)=-11.508, p=0.001
+Paired-samples T-Test; Cond: 2 vs 20; t(3.000)=-13.877, p=0.001
+Paired-samples T-Test; Cond: 2 vs 22; t(3.000)=-17.625, p=0.000
+Paired-samples T-Test; Cond: 2 vs 40; t(3.000)=-11.062, p=0.002
+Paired-samples T-Test; Cond: 3 vs 4; t(3.000)=33.775, p=0.000
+Paired-samples T-Test; Cond: 3 vs 6; t(3.000)=-10.257, p=0.002
+Paired-samples T-Test; Cond: 3 vs 12; t(3.000)=32.194, p=0.000
+Paired-samples T-Test; Cond: 3 vs 16; t(3.000)=32.333, p=0.000
+Paired-samples T-Test; Cond: 3 vs 21; t(3.000)=22.463, p=0.000
+Paired-samples T-Test; Cond: 3 vs 23; t(3.000)=35.076, p=0.000
+Paired-samples T-Test; Cond: 3 vs 24; t(3.000)=21.716, p=0.000
+Paired-samples T-Test; Cond: 3 vs 27; t(3.000)=18.084, p=0.000
+Paired-samples T-Test; Cond: 3 vs 28; t(3.000)=17.610, p=0.000
+Paired-samples T-Test; Cond: 3 vs 29; t(3.000)=14.905, p=0.001
+Paired-samples T-Test; Cond: 3 vs 32; t(3.000)=11.658, p=0.001
+Paired-samples T-Test; Cond: 3 vs 36; t(3.000)=13.059, p=0.001
+Paired-samples T-Test; Cond: 3 vs 37; t(3.000)=11.424, p=0.001
+Paired-samples T-Test; Cond: 3 vs 49; t(3.000)=10.385, p=0.002
+Paired-samples T-Test; Cond: 3 vs 50; t(3.000)=16.125, p=0.001
+Paired-samples T-Test; Cond: 4 vs 5; t(3.000)=-15.818, p=0.001
+Paired-samples T-Test; Cond: 4 vs 6; t(3.000)=-24.959, p=0.000
+Paired-samples T-Test; Cond: 4 vs 7; t(3.000)=-16.417, p=0.000
+Paired-samples T-Test; Cond: 4 vs 8; t(3.000)=-105.559, p=0.000
+Paired-samples T-Test; Cond: 4 vs 9; t(3.000)=-11.944, p=0.001
+Paired-samples T-Test; Cond: 4 vs 10; t(3.000)=-32.220, p=0.000
+Paired-samples T-Test; Cond: 4 vs 13; t(3.000)=-12.144, p=0.001
+Paired-samples T-Test; Cond: 4 vs 14; t(3.000)=-33.139, p=0.000
+Paired-samples T-Test; Cond: 4 vs 16; t(3.000)=-26.888, p=0.000
+Paired-samples T-Test; Cond: 4 vs 18; t(3.000)=-32.950, p=0.000
+Paired-samples T-Test; Cond: 4 vs 19; t(3.000)=-38.168, p=0.000
+Paired-samples T-Test; Cond: 4 vs 20; t(3.000)=-14.699, p=0.001
+Paired-samples T-Test; Cond: 4 vs 21; t(3.000)=-11.812, p=0.001
+Paired-samples T-Test; Cond: 4 vs 22; t(3.000)=-33.017, p=0.000
+Paired-samples T-Test; Cond: 4 vs 23; t(3.000)=-24.347, p=0.000
+Paired-samples T-Test; Cond: 4 vs 25; t(3.000)=-16.123, p=0.001
+Paired-samples T-Test; Cond: 4 vs 26; t(3.000)=-11.677, p=0.001
+Paired-samples T-Test; Cond: 4 vs 29; t(3.000)=-43.779, p=0.000
+Paired-samples T-Test; Cond: 4 vs 31; t(3.000)=-12.921, p=0.001
+Paired-samples T-Test; Cond: 4 vs 37; t(3.000)=-10.963, p=0.002
+Paired-samples T-Test; Cond: 4 vs 38; t(3.000)=-12.347, p=0.001
+Paired-samples T-Test; Cond: 4 vs 39; t(3.000)=-13.756, p=0.001
+Paired-samples T-Test; Cond: 4 vs 40; t(3.000)=-34.535, p=0.000
+Paired-samples T-Test; Cond: 4 vs 41; t(3.000)=-24.717, p=0.000
+Paired-samples T-Test; Cond: 5 vs 12; t(3.000)=11.977, p=0.001
+Paired-samples T-Test; Cond: 5 vs 15; t(3.000)=11.274, p=0.001
+Paired-samples T-Test; Cond: 5 vs 21; t(3.000)=11.319, p=0.001
+Paired-samples T-Test; Cond: 5 vs 23; t(3.000)=10.137, p=0.002
+Paired-samples T-Test; Cond: 5 vs 27; t(3.000)=33.615, p=0.000
+Paired-samples T-Test; Cond: 5 vs 30; t(3.000)=13.302, p=0.001
+Paired-samples T-Test; Cond: 5 vs 32; t(3.000)=12.690, p=0.001
+Paired-samples T-Test; Cond: 5 vs 33; t(3.000)=11.050, p=0.002
+Paired-samples T-Test; Cond: 5 vs 36; t(3.000)=13.606, p=0.001
+Paired-samples T-Test; Cond: 5 vs 42; t(3.000)=13.831, p=0.001
+Paired-samples T-Test; Cond: 5 vs 49; t(3.000)=23.936, p=0.000
+Paired-samples T-Test; Cond: 5 vs 50; t(3.000)=14.769, p=0.001
+Paired-samples T-Test; Cond: 6 vs 12; t(3.000)=21.826, p=0.000
+Paired-samples T-Test; Cond: 6 vs 15; t(3.000)=23.116, p=0.000
+Paired-samples T-Test; Cond: 6 vs 16; t(3.000)=21.133, p=0.000
+Paired-samples T-Test; Cond: 6 vs 17; t(3.000)=14.015, p=0.001
+Paired-samples T-Test; Cond: 6 vs 21; t(3.000)=27.153, p=0.000
+Paired-samples T-Test; Cond: 6 vs 22; t(3.000)=10.639, p=0.002
+Paired-samples T-Test; Cond: 6 vs 23; t(3.000)=20.650, p=0.000
+Paired-samples T-Test; Cond: 6 vs 24; t(3.000)=17.164, p=0.000
+Paired-samples T-Test; Cond: 6 vs 25; t(3.000)=16.409, p=0.000
+Paired-samples T-Test; Cond: 6 vs 26; t(3.000)=10.324, p=0.002
+Paired-samples T-Test; Cond: 6 vs 27; t(3.000)=33.261, p=0.000
+Paired-samples T-Test; Cond: 6 vs 28; t(3.000)=27.396, p=0.000
+Paired-samples T-Test; Cond: 6 vs 29; t(3.000)=13.493, p=0.001
+Paired-samples T-Test; Cond: 6 vs 30; t(3.000)=21.158, p=0.000
+Paired-samples T-Test; Cond: 6 vs 32; t(3.000)=15.797, p=0.001
+Paired-samples T-Test; Cond: 6 vs 33; t(3.000)=18.440, p=0.000
+Paired-samples T-Test; Cond: 6 vs 36; t(3.000)=14.796, p=0.001
+Paired-samples T-Test; Cond: 6 vs 37; t(3.000)=12.055, p=0.001
+Paired-samples T-Test; Cond: 6 vs 38; t(3.000)=19.427, p=0.000
+Paired-samples T-Test; Cond: 6 vs 42; t(3.000)=16.088, p=0.001
+Paired-samples T-Test; Cond: 6 vs 49; t(3.000)=15.140, p=0.001
+Paired-samples T-Test; Cond: 6 vs 50; t(3.000)=16.057, p=0.001
+Paired-samples T-Test; Cond: 7 vs 12; t(3.000)=11.929, p=0.001
+Paired-samples T-Test; Cond: 7 vs 26; t(3.000)=15.419, p=0.001
+Paired-samples T-Test; Cond: 7 vs 27; t(3.000)=14.442, p=0.001
+Paired-samples T-Test; Cond: 7 vs 32; t(3.000)=39.918, p=0.000
+Paired-samples T-Test; Cond: 7 vs 50; t(3.000)=18.069, p=0.000
+Paired-samples T-Test; Cond: 8 vs 9; t(3.000)=17.409, p=0.000
+Paired-samples T-Test; Cond: 8 vs 12; t(3.000)=42.269, p=0.000
+Paired-samples T-Test; Cond: 8 vs 21; t(3.000)=15.386, p=0.001
+Paired-samples T-Test; Cond: 8 vs 23; t(3.000)=26.460, p=0.000
+Paired-samples T-Test; Cond: 8 vs 24; t(3.000)=27.613, p=0.000
+Paired-samples T-Test; Cond: 8 vs 26; t(3.000)=14.424, p=0.001
+Paired-samples T-Test; Cond: 8 vs 27; t(3.000)=15.091, p=0.001
+Paired-samples T-Test; Cond: 8 vs 29; t(3.000)=22.198, p=0.000
+Paired-samples T-Test; Cond: 8 vs 31; t(3.000)=10.902, p=0.002
+Paired-samples T-Test; Cond: 8 vs 32; t(3.000)=14.378, p=0.001
+Paired-samples T-Test; Cond: 8 vs 36; t(3.000)=16.794, p=0.000
+Paired-samples T-Test; Cond: 8 vs 37; t(3.000)=18.119, p=0.000
+Paired-samples T-Test; Cond: 8 vs 49; t(3.000)=10.464, p=0.002
+Paired-samples T-Test; Cond: 8 vs 50; t(3.000)=37.817, p=0.000
+Paired-samples T-Test; Cond: 9 vs 10; t(3.000)=-10.518, p=0.002
+Paired-samples T-Test; Cond: 9 vs 14; t(3.000)=-10.984, p=0.002
+Paired-samples T-Test; Cond: 9 vs 19; t(3.000)=-13.745, p=0.001
+Paired-samples T-Test; Cond: 9 vs 39; t(3.000)=-16.674, p=0.000
+Paired-samples T-Test; Cond: 9 vs 41; t(3.000)=-11.682, p=0.001
+Paired-samples T-Test; Cond: 9 vs 50; t(3.000)=30.290, p=0.000
+Paired-samples T-Test; Cond: 10 vs 12; t(3.000)=23.339, p=0.000
+Paired-samples T-Test; Cond: 10 vs 15; t(3.000)=26.198, p=0.000
+Paired-samples T-Test; Cond: 10 vs 16; t(3.000)=17.247, p=0.000
+Paired-samples T-Test; Cond: 10 vs 17; t(3.000)=14.934, p=0.001
+Paired-samples T-Test; Cond: 10 vs 18; t(3.000)=13.251, p=0.001
+Paired-samples T-Test; Cond: 10 vs 21; t(3.000)=31.169, p=0.000
+Paired-samples T-Test; Cond: 10 vs 22; t(3.000)=25.000, p=0.000
+Paired-samples T-Test; Cond: 10 vs 23; t(3.000)=21.240, p=0.000
+Paired-samples T-Test; Cond: 10 vs 24; t(3.000)=17.115, p=0.000
+Paired-samples T-Test; Cond: 10 vs 26; t(3.000)=13.639, p=0.001
+Paired-samples T-Test; Cond: 10 vs 27; t(3.000)=65.887, p=0.000
+Paired-samples T-Test; Cond: 10 vs 28; t(3.000)=15.505, p=0.001
+Paired-samples T-Test; Cond: 10 vs 29; t(3.000)=14.283, p=0.001
+Paired-samples T-Test; Cond: 10 vs 30; t(3.000)=15.102, p=0.001
+Paired-samples T-Test; Cond: 10 vs 32; t(3.000)=22.151, p=0.000
+Paired-samples T-Test; Cond: 10 vs 33; t(3.000)=12.163, p=0.001
+Paired-samples T-Test; Cond: 10 vs 36; t(3.000)=17.582, p=0.000
+Paired-samples T-Test; Cond: 10 vs 37; t(3.000)=13.304, p=0.001
+Paired-samples T-Test; Cond: 10 vs 40; t(3.000)=11.649, p=0.001
+Paired-samples T-Test; Cond: 10 vs 42; t(3.000)=15.813, p=0.001
+Paired-samples T-Test; Cond: 10 vs 49; t(3.000)=18.161, p=0.000
+Paired-samples T-Test; Cond: 10 vs 50; t(3.000)=20.663, p=0.000
+Paired-samples T-Test; Cond: 12 vs 14; t(3.000)=-26.025, p=0.000
+Paired-samples T-Test; Cond: 12 vs 16; t(3.000)=-22.517, p=0.000
+Paired-samples T-Test; Cond: 12 vs 18; t(3.000)=-18.579, p=0.000
+Paired-samples T-Test; Cond: 12 vs 19; t(3.000)=-21.407, p=0.000
+Paired-samples T-Test; Cond: 12 vs 20; t(3.000)=-11.487, p=0.001
+Paired-samples T-Test; Cond: 12 vs 22; t(3.000)=-22.698, p=0.000
+Paired-samples T-Test; Cond: 12 vs 23; t(3.000)=-17.405, p=0.000
+Paired-samples T-Test; Cond: 12 vs 25; t(3.000)=-12.682, p=0.001
+Paired-samples T-Test; Cond: 12 vs 29; t(3.000)=-97.000, p=0.000
+Paired-samples T-Test; Cond: 12 vs 38; t(3.000)=-10.940, p=0.002
+Paired-samples T-Test; Cond: 12 vs 40; t(3.000)=-20.879, p=0.000
+Paired-samples T-Test; Cond: 12 vs 41; t(3.000)=-14.321, p=0.001
+Paired-samples T-Test; Cond: 13 vs 27; t(3.000)=13.284, p=0.001
+Paired-samples T-Test; Cond: 13 vs 28; t(3.000)=18.205, p=0.000
+Paired-samples T-Test; Cond: 13 vs 30; t(3.000)=12.983, p=0.001
+Paired-samples T-Test; Cond: 13 vs 33; t(3.000)=16.001, p=0.001
+Paired-samples T-Test; Cond: 13 vs 42; t(3.000)=12.678, p=0.001
+Paired-samples T-Test; Cond: 13 vs 49; t(3.000)=11.161, p=0.002
+Paired-samples T-Test; Cond: 14 vs 15; t(3.000)=37.297, p=0.000
+Paired-samples T-Test; Cond: 14 vs 16; t(3.000)=24.495, p=0.000
+Paired-samples T-Test; Cond: 14 vs 17; t(3.000)=18.764, p=0.000
+Paired-samples T-Test; Cond: 14 vs 18; t(3.000)=12.736, p=0.001
+Paired-samples T-Test; Cond: 14 vs 21; t(3.000)=45.219, p=0.000
+Paired-samples T-Test; Cond: 14 vs 22; t(3.000)=30.314, p=0.000
+Paired-samples T-Test; Cond: 14 vs 23; t(3.000)=23.802, p=0.000
+Paired-samples T-Test; Cond: 14 vs 24; t(3.000)=19.117, p=0.000
+Paired-samples T-Test; Cond: 14 vs 25; t(3.000)=12.107, p=0.001
+Paired-samples T-Test; Cond: 14 vs 26; t(3.000)=13.973, p=0.001
+Paired-samples T-Test; Cond: 14 vs 27; t(3.000)=56.406, p=0.000
+Paired-samples T-Test; Cond: 14 vs 28; t(3.000)=18.106, p=0.000
+Paired-samples T-Test; Cond: 14 vs 29; t(3.000)=16.691, p=0.000
+Paired-samples T-Test; Cond: 14 vs 30; t(3.000)=16.581, p=0.000
+Paired-samples T-Test; Cond: 14 vs 32; t(3.000)=23.668, p=0.000
+Paired-samples T-Test; Cond: 14 vs 33; t(3.000)=13.720, p=0.001
+Paired-samples T-Test; Cond: 14 vs 36; t(3.000)=16.858, p=0.000
+Paired-samples T-Test; Cond: 14 vs 37; t(3.000)=13.565, p=0.001
+Paired-samples T-Test; Cond: 14 vs 38; t(3.000)=11.411, p=0.001
+Paired-samples T-Test; Cond: 14 vs 40; t(3.000)=12.186, p=0.001
+Paired-samples T-Test; Cond: 14 vs 42; t(3.000)=15.660, p=0.001
+Paired-samples T-Test; Cond: 14 vs 49; t(3.000)=16.848, p=0.000
+Paired-samples T-Test; Cond: 14 vs 50; t(3.000)=20.195, p=0.000
+Paired-samples T-Test; Cond: 15 vs 20; t(3.000)=-12.950, p=0.001
+Paired-samples T-Test; Cond: 15 vs 22; t(3.000)=-15.684, p=0.001
+Paired-samples T-Test; Cond: 15 vs 25; t(3.000)=-11.783, p=0.001
+Paired-samples T-Test; Cond: 15 vs 27; t(3.000)=19.942, p=0.000
+Paired-samples T-Test; Cond: 16 vs 21; t(3.000)=17.777, p=0.000
+Paired-samples T-Test; Cond: 16 vs 22; t(3.000)=-11.951, p=0.001
+Paired-samples T-Test; Cond: 16 vs 23; t(3.000)=18.385, p=0.000
+Paired-samples T-Test; Cond: 16 vs 24; t(3.000)=14.315, p=0.001
+Paired-samples T-Test; Cond: 16 vs 27; t(3.000)=14.576, p=0.001
+Paired-samples T-Test; Cond: 16 vs 50; t(3.000)=12.624, p=0.001
+Paired-samples T-Test; Cond: 17 vs 20; t(3.000)=-11.842, p=0.001
+Paired-samples T-Test; Cond: 17 vs 27; t(3.000)=10.729, p=0.002
+Paired-samples T-Test; Cond: 18 vs 21; t(3.000)=12.072, p=0.001
+Paired-samples T-Test; Cond: 18 vs 23; t(3.000)=15.848, p=0.001
+Paired-samples T-Test; Cond: 18 vs 24; t(3.000)=13.197, p=0.001
+Paired-samples T-Test; Cond: 18 vs 27; t(3.000)=20.082, p=0.000
+Paired-samples T-Test; Cond: 18 vs 32; t(3.000)=11.255, p=0.002
+Paired-samples T-Test; Cond: 18 vs 36; t(3.000)=20.776, p=0.000
+Paired-samples T-Test; Cond: 18 vs 37; t(3.000)=12.747, p=0.001
+Paired-samples T-Test; Cond: 18 vs 49; t(3.000)=14.816, p=0.001
+Paired-samples T-Test; Cond: 18 vs 50; t(3.000)=21.687, p=0.000
+Paired-samples T-Test; Cond: 19 vs 21; t(3.000)=11.028, p=0.002
+Paired-samples T-Test; Cond: 19 vs 23; t(3.000)=17.992, p=0.000
+Paired-samples T-Test; Cond: 19 vs 24; t(3.000)=16.093, p=0.001
+Paired-samples T-Test; Cond: 19 vs 26; t(3.000)=10.434, p=0.002
+Paired-samples T-Test; Cond: 19 vs 27; t(3.000)=15.163, p=0.001
+Paired-samples T-Test; Cond: 19 vs 31; t(3.000)=12.150, p=0.001
+Paired-samples T-Test; Cond: 19 vs 32; t(3.000)=10.920, p=0.002
+Paired-samples T-Test; Cond: 19 vs 36; t(3.000)=33.912, p=0.000
+Paired-samples T-Test; Cond: 19 vs 37; t(3.000)=25.881, p=0.000
+Paired-samples T-Test; Cond: 19 vs 41; t(3.000)=11.388, p=0.001
+Paired-samples T-Test; Cond: 19 vs 49; t(3.000)=14.186, p=0.001
+Paired-samples T-Test; Cond: 19 vs 50; t(3.000)=32.185, p=0.000
+Paired-samples T-Test; Cond: 20 vs 21; t(3.000)=11.812, p=0.001
+Paired-samples T-Test; Cond: 20 vs 26; t(3.000)=10.657, p=0.002
+Paired-samples T-Test; Cond: 20 vs 27; t(3.000)=28.003, p=0.000
+Paired-samples T-Test; Cond: 20 vs 32; t(3.000)=17.695, p=0.000
+Paired-samples T-Test; Cond: 20 vs 36; t(3.000)=10.355, p=0.002
+Paired-samples T-Test; Cond: 20 vs 49; t(3.000)=12.878, p=0.001
+Paired-samples T-Test; Cond: 20 vs 50; t(3.000)=14.673, p=0.001
+Paired-samples T-Test; Cond: 21 vs 22; t(3.000)=-31.085, p=0.000
+Paired-samples T-Test; Cond: 21 vs 25; t(3.000)=-12.708, p=0.001
+Paired-samples T-Test; Cond: 21 vs 38; t(3.000)=-10.430, p=0.002
+Paired-samples T-Test; Cond: 21 vs 40; t(3.000)=-13.530, p=0.001
+Paired-samples T-Test; Cond: 22 vs 23; t(3.000)=19.135, p=0.000
+Paired-samples T-Test; Cond: 22 vs 24; t(3.000)=15.633, p=0.001
+Paired-samples T-Test; Cond: 22 vs 27; t(3.000)=34.733, p=0.000
+Paired-samples T-Test; Cond: 22 vs 28; t(3.000)=11.170, p=0.002
+Paired-samples T-Test; Cond: 22 vs 29; t(3.000)=11.358, p=0.001
+Paired-samples T-Test; Cond: 22 vs 32; t(3.000)=17.722, p=0.000
+Paired-samples T-Test; Cond: 22 vs 36; t(3.000)=13.435, p=0.001
+Paired-samples T-Test; Cond: 22 vs 37; t(3.000)=10.267, p=0.002
+Paired-samples T-Test; Cond: 22 vs 49; t(3.000)=12.334, p=0.001
+Paired-samples T-Test; Cond: 22 vs 50; t(3.000)=18.330, p=0.000
+Paired-samples T-Test; Cond: 23 vs 25; t(3.000)=-10.671, p=0.002
+Paired-samples T-Test; Cond: 23 vs 29; t(3.000)=-13.272, p=0.001
+Paired-samples T-Test; Cond: 23 vs 40; t(3.000)=-20.300, p=0.000
+Paired-samples T-Test; Cond: 24 vs 29; t(3.000)=-23.603, p=0.000
+Paired-samples T-Test; Cond: 24 vs 40; t(3.000)=-14.615, p=0.001
+Paired-samples T-Test; Cond: 24 vs 41; t(3.000)=-11.401, p=0.001
+Paired-samples T-Test; Cond: 25 vs 27; t(3.000)=31.837, p=0.000
+Paired-samples T-Test; Cond: 25 vs 28; t(3.000)=13.732, p=0.001
+Paired-samples T-Test; Cond: 25 vs 30; t(3.000)=23.236, p=0.000
+Paired-samples T-Test; Cond: 25 vs 33; t(3.000)=14.988, p=0.001
+Paired-samples T-Test; Cond: 25 vs 36; t(3.000)=10.498, p=0.002
+Paired-samples T-Test; Cond: 25 vs 42; t(3.000)=11.898, p=0.001
+Paired-samples T-Test; Cond: 25 vs 49; t(3.000)=12.811, p=0.001
+Paired-samples T-Test; Cond: 25 vs 50; t(3.000)=11.833, p=0.001
+Paired-samples T-Test; Cond: 26 vs 50; t(3.000)=19.865, p=0.000
+Paired-samples T-Test; Cond: 27 vs 30; t(3.000)=-11.883, p=0.001
+Paired-samples T-Test; Cond: 27 vs 38; t(3.000)=-13.159, p=0.001
+Paired-samples T-Test; Cond: 27 vs 40; t(3.000)=-20.325, p=0.000
+Paired-samples T-Test; Cond: 27 vs 41; t(3.000)=-10.711, p=0.002
+Paired-samples T-Test; Cond: 28 vs 40; t(3.000)=-11.007, p=0.002
+Paired-samples T-Test; Cond: 29 vs 50; t(3.000)=14.205, p=0.001
+Paired-samples T-Test; Cond: 31 vs 37; t(3.000)=13.815, p=0.001
+Paired-samples T-Test; Cond: 31 vs 50; t(3.000)=13.359, p=0.001
+Paired-samples T-Test; Cond: 32 vs 40; t(3.000)=-10.931, p=0.002
+Paired-samples T-Test; Cond: 36 vs 40; t(3.000)=-21.406, p=0.000
+Paired-samples T-Test; Cond: 36 vs 41; t(3.000)=-16.795, p=0.000
+Paired-samples T-Test; Cond: 37 vs 40; t(3.000)=-13.868, p=0.001
+Paired-samples T-Test; Cond: 37 vs 41; t(3.000)=-13.592, p=0.001
+Paired-samples T-Test; Cond: 37 vs 50; t(3.000)=11.891, p=0.001
+Paired-samples T-Test; Cond: 39 vs 50; t(3.000)=31.812, p=0.000
+Paired-samples T-Test; Cond: 40 vs 42; t(3.000)=12.386, p=0.001
+Paired-samples T-Test; Cond: 40 vs 49; t(3.000)=15.121, p=0.001
+Paired-samples T-Test; Cond: 40 vs 50; t(3.000)=19.659, p=0.000
+Paired-samples T-Test; Cond: 41 vs 50; t(3.000)=47.686, p=0.000
+Significant differences per cond. All vs All -> CS_AMT_EN
+Paired-samples T-Test; Cond: 1 vs 2; t(3.000)=31.251, p=0.000
+Paired-samples T-Test; Cond: 1 vs 3; t(3.000)=13.889, p=0.001
+Paired-samples T-Test; Cond: 1 vs 4; t(3.000)=42.948, p=0.000
+Paired-samples T-Test; Cond: 1 vs 5; t(3.000)=11.257, p=0.002
+Paired-samples T-Test; Cond: 1 vs 7; t(3.000)=19.941, p=0.000
+Paired-samples T-Test; Cond: 1 vs 8; t(3.000)=20.102, p=0.000
+Paired-samples T-Test; Cond: 1 vs 9; t(3.000)=21.137, p=0.000
+Paired-samples T-Test; Cond: 1 vs 10; t(3.000)=23.000, p=0.000
+Paired-samples T-Test; Cond: 1 vs 12; t(3.000)=77.000, p=0.000
+Paired-samples T-Test; Cond: 1 vs 13; t(3.000)=10.833, p=0.002
+Paired-samples T-Test; Cond: 1 vs 14; t(3.000)=20.367, p=0.000
+Paired-samples T-Test; Cond: 1 vs 15; t(3.000)=41.959, p=0.000
+Paired-samples T-Test; Cond: 1 vs 16; t(3.000)=38.300, p=0.000
+Paired-samples T-Test; Cond: 1 vs 17; t(3.000)=100.429, p=0.000
+Paired-samples T-Test; Cond: 1 vs 18; t(3.000)=29.577, p=0.000
+Paired-samples T-Test; Cond: 1 vs 19; t(3.000)=11.754, p=0.001
+Paired-samples T-Test; Cond: 1 vs 21; t(3.000)=27.321, p=0.000
+Paired-samples T-Test; Cond: 1 vs 23; t(3.000)=19.444, p=0.000
+Paired-samples T-Test; Cond: 1 vs 24; t(3.000)=13.323, p=0.001
+Paired-samples T-Test; Cond: 1 vs 25; t(3.000)=10.957, p=0.002
+Paired-samples T-Test; Cond: 1 vs 26; t(3.000)=10.554, p=0.002
+Paired-samples T-Test; Cond: 1 vs 27; t(3.000)=47.175, p=0.000
+Paired-samples T-Test; Cond: 1 vs 28; t(3.000)=46.324, p=0.000
+Paired-samples T-Test; Cond: 1 vs 29; t(3.000)=30.259, p=0.000
+Paired-samples T-Test; Cond: 1 vs 30; t(3.000)=12.546, p=0.001
+Paired-samples T-Test; Cond: 1 vs 31; t(3.000)=14.568, p=0.001
+Paired-samples T-Test; Cond: 1 vs 32; t(3.000)=24.616, p=0.000
+Paired-samples T-Test; Cond: 1 vs 33; t(3.000)=10.929, p=0.002
+Paired-samples T-Test; Cond: 1 vs 36; t(3.000)=19.805, p=0.000
+Paired-samples T-Test; Cond: 1 vs 37; t(3.000)=12.487, p=0.001
+Paired-samples T-Test; Cond: 1 vs 38; t(3.000)=16.557, p=0.000
+Paired-samples T-Test; Cond: 1 vs 41; t(3.000)=11.314, p=0.001
+Paired-samples T-Test; Cond: 1 vs 49; t(3.000)=13.663, p=0.001
+Paired-samples T-Test; Cond: 1 vs 50; t(3.000)=42.801, p=0.000
+Paired-samples T-Test; Cond: 2 vs 5; t(3.000)=-10.465, p=0.002
+Paired-samples T-Test; Cond: 2 vs 6; t(3.000)=-58.095, p=0.000
+Paired-samples T-Test; Cond: 2 vs 8; t(3.000)=-13.075, p=0.001
+Paired-samples T-Test; Cond: 2 vs 10; t(3.000)=-26.080, p=0.000
+Paired-samples T-Test; Cond: 2 vs 12; t(3.000)=15.667, p=0.001
+Paired-samples T-Test; Cond: 2 vs 14; t(3.000)=-18.772, p=0.000
+Paired-samples T-Test; Cond: 2 vs 50; t(3.000)=12.258, p=0.001
+Paired-samples T-Test; Cond: 3 vs 4; t(3.000)=29.802, p=0.000
+Paired-samples T-Test; Cond: 3 vs 6; t(3.000)=-12.053, p=0.001
+Paired-samples T-Test; Cond: 3 vs 9; t(3.000)=17.000, p=0.000
+Paired-samples T-Test; Cond: 3 vs 12; t(3.000)=11.386, p=0.001
+Paired-samples T-Test; Cond: 3 vs 27; t(3.000)=16.189, p=0.001
+Paired-samples T-Test; Cond: 3 vs 32; t(3.000)=19.000, p=0.000
+Paired-samples T-Test; Cond: 3 vs 50; t(3.000)=23.778, p=0.000
+Paired-samples T-Test; Cond: 4 vs 5; t(3.000)=-18.636, p=0.000
+Paired-samples T-Test; Cond: 4 vs 6; t(3.000)=-29.297, p=0.000
+Paired-samples T-Test; Cond: 4 vs 7; t(3.000)=-37.657, p=0.000
+Paired-samples T-Test; Cond: 4 vs 8; t(3.000)=-45.000, p=0.000
+Paired-samples T-Test; Cond: 4 vs 9; t(3.000)=-24.011, p=0.000
+Paired-samples T-Test; Cond: 4 vs 10; t(3.000)=-39.864, p=0.000
+Paired-samples T-Test; Cond: 4 vs 13; t(3.000)=-20.139, p=0.000
+Paired-samples T-Test; Cond: 4 vs 14; t(3.000)=-40.083, p=0.000
+Paired-samples T-Test; Cond: 4 vs 15; t(3.000)=-15.377, p=0.001
+Paired-samples T-Test; Cond: 4 vs 16; t(3.000)=-13.553, p=0.001
+Paired-samples T-Test; Cond: 4 vs 17; t(3.000)=-16.307, p=0.001
+Paired-samples T-Test; Cond: 4 vs 18; t(3.000)=-23.857, p=0.000
+Paired-samples T-Test; Cond: 4 vs 19; t(3.000)=-33.800, p=0.000
+Paired-samples T-Test; Cond: 4 vs 20; t(3.000)=-21.944, p=0.000
+Paired-samples T-Test; Cond: 4 vs 22; t(3.000)=-20.877, p=0.000
+Paired-samples T-Test; Cond: 4 vs 23; t(3.000)=-14.434, p=0.001
+Paired-samples T-Test; Cond: 4 vs 25; t(3.000)=-28.968, p=0.000
+Paired-samples T-Test; Cond: 4 vs 29; t(3.000)=-33.000, p=0.000
+Paired-samples T-Test; Cond: 4 vs 30; t(3.000)=-18.311, p=0.000
+Paired-samples T-Test; Cond: 4 vs 31; t(3.000)=-12.083, p=0.001
+Paired-samples T-Test; Cond: 4 vs 32; t(3.000)=-31.000, p=0.000
+Paired-samples T-Test; Cond: 4 vs 33; t(3.000)=-13.671, p=0.001
+Paired-samples T-Test; Cond: 4 vs 37; t(3.000)=-13.024, p=0.001
+Paired-samples T-Test; Cond: 4 vs 38; t(3.000)=-18.558, p=0.000
+Paired-samples T-Test; Cond: 4 vs 39; t(3.000)=-11.841, p=0.001
+Paired-samples T-Test; Cond: 4 vs 40; t(3.000)=-16.290, p=0.001
+Paired-samples T-Test; Cond: 4 vs 41; t(3.000)=-20.451, p=0.000
+Paired-samples T-Test; Cond: 4 vs 42; t(3.000)=-10.358, p=0.002
+Paired-samples T-Test; Cond: 4 vs 45; t(3.000)=-10.722, p=0.002
+Paired-samples T-Test; Cond: 5 vs 12; t(3.000)=19.572, p=0.000
+Paired-samples T-Test; Cond: 5 vs 15; t(3.000)=15.132, p=0.001
+Paired-samples T-Test; Cond: 5 vs 17; t(3.000)=13.760, p=0.001
+Paired-samples T-Test; Cond: 5 vs 21; t(3.000)=12.624, p=0.001
+Paired-samples T-Test; Cond: 5 vs 27; t(3.000)=26.021, p=0.000
+Paired-samples T-Test; Cond: 5 vs 28; t(3.000)=12.638, p=0.001
+Paired-samples T-Test; Cond: 5 vs 50; t(3.000)=16.500, p=0.000
+Paired-samples T-Test; Cond: 6 vs 8; t(3.000)=10.619, p=0.002
+Paired-samples T-Test; Cond: 6 vs 9; t(3.000)=16.010, p=0.001
+Paired-samples T-Test; Cond: 6 vs 12; t(3.000)=52.035, p=0.000
+Paired-samples T-Test; Cond: 6 vs 15; t(3.000)=15.705, p=0.001
+Paired-samples T-Test; Cond: 6 vs 16; t(3.000)=19.323, p=0.000
+Paired-samples T-Test; Cond: 6 vs 17; t(3.000)=24.568, p=0.000
+Paired-samples T-Test; Cond: 6 vs 21; t(3.000)=23.602, p=0.000
+Paired-samples T-Test; Cond: 6 vs 23; t(3.000)=26.807, p=0.000
+Paired-samples T-Test; Cond: 6 vs 24; t(3.000)=13.957, p=0.001
+Paired-samples T-Test; Cond: 6 vs 27; t(3.000)=22.841, p=0.000
+Paired-samples T-Test; Cond: 6 vs 28; t(3.000)=62.385, p=0.000
+Paired-samples T-Test; Cond: 6 vs 29; t(3.000)=18.974, p=0.000
+Paired-samples T-Test; Cond: 6 vs 30; t(3.000)=10.719, p=0.002
+Paired-samples T-Test; Cond: 6 vs 31; t(3.000)=13.105, p=0.001
+Paired-samples T-Test; Cond: 6 vs 32; t(3.000)=21.981, p=0.000
+Paired-samples T-Test; Cond: 6 vs 36; t(3.000)=27.088, p=0.000
+Paired-samples T-Test; Cond: 6 vs 37; t(3.000)=11.333, p=0.001
+Paired-samples T-Test; Cond: 6 vs 39; t(3.000)=12.925, p=0.001
+Paired-samples T-Test; Cond: 6 vs 41; t(3.000)=10.598, p=0.002
+Paired-samples T-Test; Cond: 6 vs 49; t(3.000)=10.279, p=0.002
+Paired-samples T-Test; Cond: 6 vs 50; t(3.000)=46.200, p=0.000
+Paired-samples T-Test; Cond: 7 vs 9; t(3.000)=15.739, p=0.001
+Paired-samples T-Test; Cond: 7 vs 12; t(3.000)=15.924, p=0.001
+Paired-samples T-Test; Cond: 7 vs 14; t(3.000)=-16.735, p=0.000
+Paired-samples T-Test; Cond: 7 vs 15; t(3.000)=21.667, p=0.000
+Paired-samples T-Test; Cond: 7 vs 27; t(3.000)=36.755, p=0.000
+Paired-samples T-Test; Cond: 7 vs 28; t(3.000)=10.295, p=0.002
+Paired-samples T-Test; Cond: 7 vs 32; t(3.000)=11.900, p=0.001
+Paired-samples T-Test; Cond: 7 vs 50; t(3.000)=27.330, p=0.000
+Paired-samples T-Test; Cond: 8 vs 9; t(3.000)=11.269, p=0.001
+Paired-samples T-Test; Cond: 8 vs 10; t(3.000)=-16.333, p=0.000
+Paired-samples T-Test; Cond: 8 vs 12; t(3.000)=27.761, p=0.000
+Paired-samples T-Test; Cond: 8 vs 14; t(3.000)=-10.340, p=0.002
+Paired-samples T-Test; Cond: 8 vs 15; t(3.000)=10.550, p=0.002
+Paired-samples T-Test; Cond: 8 vs 17; t(3.000)=16.735, p=0.000
+Paired-samples T-Test; Cond: 8 vs 21; t(3.000)=16.711, p=0.000
+Paired-samples T-Test; Cond: 8 vs 23; t(3.000)=14.142, p=0.001
+Paired-samples T-Test; Cond: 8 vs 27; t(3.000)=29.892, p=0.000
+Paired-samples T-Test; Cond: 8 vs 28; t(3.000)=16.971, p=0.000
