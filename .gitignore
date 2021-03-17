@@ -1,0 +1,5 @@
+# Ignored Files
+.idea
+.idea/**
+.RData
+.Rhistory
